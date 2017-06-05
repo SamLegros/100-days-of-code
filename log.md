@@ -1,31 +1,30 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: May 22, 2017, Monday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Completed 3 exercises on FreeCodeCamp.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I feel that I have a pretty good grasp of HTML5 and CSS, I hope this translates well with JavaScript.
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work:** Null
 
 
-### Day 1: June 27, Monday
+### Day 2: May 23, 2017, Tuesday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Completed 5 exercises on FreeCodeCamp, and got started on my Personal Portfolio Webpage.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts:** I was having difficulty putting a navigation bar at the top of my window that stays on top of the content. I'm wondering if Bootstrap is acting up, or my programming skills aren't up to par. I went through many websites and forums for help, still no luck with the responsive formatting, I'm hoping tomorrow will yield better results.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work:** [Personal Portfolio Webpage](https://codepen.io/SamLegros/pen/MmLbxP)
+
+
+### Day 3: May 24, 2017, Wednesday
+
+**Today's Progress**: Completed 23 exercises on FreeCodeCamp, and make some progress on my Personal Portfolio Webpage.
+
+**Thoughts:** Today was a much better day for coding. Just trying the same problem again on a different day can make such a difference. I also was more aware of making sure my portfolio has my own style embedded into it. Too many times I copy something without adding my own flavour to it. I'm hoping that will come more natually once I have a better grasp of programming in general.
+
+**Link(s) to work:** [Personal Portfolio Webpage](https://codepen.io/SamLegros/pen/MmLbxP)
+
+
+The rest of my days will be added tomorrow. Just need to transfer them from my written notes/browser history.
