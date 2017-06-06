@@ -119,31 +119,31 @@
 
 ### Day 13: June 03, 2017, Saturday
 
-**Today's Progress**: 
+**Today's Progress**: Completed 3 exercises on FreeCodeCamp, and updated my developmentnotes wiki.
 
-**Thoughts:** 
+**Thoughts:** Today felt like one of those "just going through the motions" days. Although I did spend a lot of time on a low amount of exercises. The majority of my time was searching through forums and learning the several new coding techniques that I need, but wasn't exposed to, in order to complete the algorithm exercises. Yet another validation of my developmentnotes wiki. It's taking a while to go through all the code I've already learned and place it in the wiki, cannot wait to be up to date on that!
 
-**Link(s) to work:** 
+**Link(s) to work:** [developmentnotes wiki](https://github.com/SamLegros/developmentnotes/wiki)
 
 
 
 ### Day 14: June 04, 2017, Sunday
 
-**Today's Progress**: 
+**Today's Progress**: Completed 3 exercises on FreeCodeCamp, and updated my developmentnotes wiki.
 
-**Thoughts:** 
+**Thoughts:** Now, today felt like a repeat of yesterday with a twist, I had a positive attitude. Yesterday, I felt discouraged for basically needing the coding community to hold my hand every step of the way for the exercises I wanted to complete. Today, I felt that the coding community had my back and encouraged my to push through the tough times. I hope for one day that I can be the one who answers the questions on the forums, some day. I also won't provide link updates on my wiki everytime I made a contribution, that might become a little redundant. Only when I either make a major change or addition, will I address it in this log.
 
-**Link(s) to work:** 
+**Link(s) to work:** Null
 
 
 
 ### Day 15: June 05, 2017, Monday
 
-**Today's Progress**: 
+**Today's Progress**: Forked my first repo (100DaysOfCode), and made some major updates to my developmentnotes wiki.
 
-**Thoughts:** 
+**Thoughts:** Maybe it's just me, but I've always loved Mondays. A fresh start to the working week, time to set goals, get organized, and start working. Today, I took a little break from FreeCodeCamp and focused on my action plans for taking my coding to the next level. I came across the 100DaysOfCode challenge and instantly wanted to be a part of it. Looking back at my coding history, I'm actually on day 15 of coding at least 1 hour every day! Today is no different, but I officially made my pledge to commit to the challenge. After some discouragement from the FreeCodeCamp algorithms, I felt the need to complete at least 1 exercise a day to get that calendar contribution box to go green. I've finally realized how silly that was. Why basically skip an exercise just to prove that I 'coded' that day? The 100DaysOfCode is perfect! Forking the repo, and keeping a log keeps me accountable for how I spend my coding time. Here's to 85 more days of learning to code!
 
-**Link(s) to work:** 
+**Link(s) to work:** Null
 
 
 
@@ -154,3 +154,5 @@
 **Thoughts:** 
 
 **Link(s) to work:** 
+
+### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
