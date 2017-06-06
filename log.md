@@ -27,4 +27,130 @@
 **Link(s) to work:** [Personal Portfolio Webpage](https://codepen.io/SamLegros/pen/MmLbxP)
 
 
-The rest of my days will be added tomorrow. Just need to transfer them from my written notes/browser history.
+### Day 4: May 25, 2017, Thursday
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:** 
+
+
+
+### Day 5: May 26, 2017, Friday
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:** 
+
+
+
+### Day 6: May 27, 2017, Saturday
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:** 
+
+
+
+### Day 7: May 28, 2017, Sunday
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:** 
+
+
+
+### Day 8: May 29, 2017, Monday
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:** 
+
+
+
+### Day 9: May 30, 2017, Tuesday
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:** 
+
+
+
+### Day 10: May 31, 2017, Wednesday
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:** 
+
+
+
+### Day 11: June 01, 2017, Thursday
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:** 
+
+
+
+### Day 12: June 02, 2017, Friday
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:** 
+
+
+
+### Day 13: June 03, 2017, Saturday
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:** 
+
+
+
+### Day 14: June 04, 2017, Sunday
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:** 
+
+
+
+### Day 15: June 05, 2017, Monday
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:** 
+
+
+
+### Day 16: June 06, 2017, Tuesday
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:** 
