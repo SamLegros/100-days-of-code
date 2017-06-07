@@ -6,7 +6,7 @@
 
 **Today's Progress**: Completed 3 exercises on FreeCodeCamp.
 
-**Thoughts:** I feel that I have a pretty good grasp of HTML5 and CSS, I hope this translates well with JavaScript.
+**Thoughts:** I feel that I have a pretty good grasp of HTML5 and CSS, I hope this translates well with JavaScript. I have been working on exercises on FreeCodeCamp for about 2 weeks now, today is the day I begin to code everyday with (fingers crossed) missing a day! I'm very excited to work on this challenge!
 
 **Link(s) to work:** Null
 
