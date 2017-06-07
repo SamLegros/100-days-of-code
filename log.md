@@ -10,6 +10,7 @@
 
 **Link(s) to work:** Null
 
+***
 
 ### Day 2: May 23, 2017, Tuesday
 
@@ -19,6 +20,7 @@
 
 **Link(s) to work:** [Personal Portfolio Webpage](https://codepen.io/SamLegros/pen/MmLbxP)
 
+***
 
 ### Day 3: May 24, 2017, Wednesday
 
@@ -28,6 +30,7 @@
 
 **Link(s) to work:** [Personal Portfolio Webpage](https://codepen.io/SamLegros/pen/MmLbxP)
 
+***
 
 ### Day 4: May 25, 2017, Thursday
 
@@ -37,7 +40,7 @@
 
 **Link(s) to work:** Null
 
-
+***
 
 ### Day 5: May 26, 2017, Friday
 
@@ -47,7 +50,7 @@
 
 **Link(s) to work:** [HOTS Talen Quick Pick](https://codepen.io/SamLegros/pen/WjWKKM)
 
-
+***
 
 ### Day 6: May 27, 2017, Saturday
 
@@ -57,7 +60,7 @@
 
 **Link(s) to work:** Null
 
-
+***
 
 ### Day 7: May 28, 2017, Sunday
 
@@ -67,7 +70,7 @@
 
 **Link(s) to work:** Null
 
-
+***
 
 ### Day 8: May 29, 2017, Monday
 
@@ -77,7 +80,7 @@
 
 **Link(s) to work:** Null
 
-
+***
 
 ### Day 9: May 30, 2017, Tuesday
 
@@ -87,7 +90,7 @@
 
 **Link(s) to work:** Null
 
-
+***
 
 ### Day 10: May 31, 2017, Wednesday
 
@@ -97,7 +100,7 @@
 
 **Link(s) to work:** Null
 
-
+***
 
 ### Day 11: June 01, 2017, Thursday
 
@@ -107,7 +110,7 @@
 
 **Link(s) to work:** [developmentnotes wiki](https://github.com/SamLegros/developmentnotes/wiki)
 
-
+***
 
 ### Day 12: June 02, 2017, Friday
 
@@ -117,7 +120,7 @@
 
 **Link(s) to work:** [Exploring Vue.js](https://codepen.io/collection/AkLBoQ/)
 
-
+***
 
 ### Day 13: June 03, 2017, Saturday
 
@@ -127,7 +130,7 @@
 
 **Link(s) to work:** [developmentnotes wiki](https://github.com/SamLegros/developmentnotes/wiki)
 
-
+***
 
 ### Day 14: June 04, 2017, Sunday
 
@@ -137,7 +140,7 @@
 
 **Link(s) to work:** Null
 
-
+***
 
 ### Day 15: June 05, 2017, Monday
 
@@ -147,7 +150,7 @@
 
 **Link(s) to work:** Null
 
-
+***
 
 ### Day 16: June 06, 2017, Tuesday
 
@@ -160,7 +163,7 @@
 - [developmentnotes wiki - jQuery](https://github.com/SamLegros/developmentnotes/wiki/%5BFree-Code-Camp%5D-jQuery)
 - [developmentnotes wiki - Basic JavaScript](https://github.com/SamLegros/developmentnotes/wiki/%5BFree-Code-Camp%5D-Basic-JavaScript)
 
-
+***
 
 ### Day 17: June 07, 2017, Wednesday
 
@@ -170,6 +173,6 @@
 
 **Link(s) to work:** 
 
-
+***
 
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
