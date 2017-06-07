@@ -149,10 +149,25 @@
 
 ### Day 16: June 06, 2017, Tuesday
 
+**Today's Progress**: Made a lot of progress updating my development notes wiki (completed Responsive Design with Bootstrap, jQuery, and the majority of Basic JavaScript], and completed 50 exercises on the Mimo app.
+
+**Thoughts:** I wanted to ensure that what I learned so far on FreeCodeCamp was being retained in my head. My biggest contributions today was going over the JavaScript module for my wiki. Just the process of re-reading the exercies and jotting down the notes somewhere really helps. Whenever I came across an exercise that didn't blatantly give away the answer, I would redo it to see if I retained the information. I also tried out the Premium version of the Mimo app, a mobile app that teaches you to code (think Duolingo for coding). It's pretty fun, and has it's own style to teaching, but I think I'll keep my programming to the computer for now.
+
+**Link(s) to work:** 
+- [developmentnotes wiki - Responsive Design with Bootstrap](https://github.com/SamLegros/developmentnotes/wiki/%5BFree-Code-Camp%5D-Responsive-Design-with-Bootstrap)
+- [developmentnotes wiki - jQuery](https://github.com/SamLegros/developmentnotes/wiki/%5BFree-Code-Camp%5D-jQuery)
+- [developmentnotes wiki - Basic JavaScript](https://github.com/SamLegros/developmentnotes/wiki/%5BFree-Code-Camp%5D-Basic-JavaScript)
+
+
+
+### Day 17: June 07, 2017, Wednesday
+
 **Today's Progress**: 
 
 **Thoughts:** 
 
 **Link(s) to work:** 
+
+
 
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
