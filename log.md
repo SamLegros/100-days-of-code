@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log
 
+***
+
 ### Day 1: May 22, 2017, Monday
 
 **Today's Progress**: Completed 3 exercises on FreeCodeCamp.
