@@ -167,6 +167,16 @@
 
 ### Day 17: June 07, 2017, Wednesday
 
+**Today's Progress**: Completed all the notes of the Basic JavaSript FreeCodeCamp module for my development notes wiki.
+
+**Thoughts:** I really found going over all the exercises for JavaScript effective for retaining the information. The first time I went through the exercises, I needed to find help in forums, especially nearing the end of the module. The second time around, this time writing down the notes and understanding before jumping into the code really helped me figure it out on my own. I can't wait to be up to date on my developmentnotes wiki, so I can just update it in tandem with working on exercises, that way I no longer have to double back.
+
+**Link(s) to work:** [developmentnotes wiki - Basic JavaScript](https://github.com/SamLegros/developmentnotes/wiki/%5BFree-Code-Camp%5D-Basic-JavaScript)
+
+***
+
+### Day 18: June 08, 2017, Thursday
+
 **Today's Progress**: 
 
 **Thoughts:** 
