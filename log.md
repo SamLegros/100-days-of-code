@@ -167,7 +167,7 @@
 
 ### Day 17: June 07, 2017, Wednesday
 
-**Today's Progress**: Completed all the notes of the Basic JavaSript FreeCodeCamp module for my development notes wiki.
+**Today's Progress**: Completed all the notes of the Basic JavaSript FreeCodeCamp module for my developmentnotes wiki.
 
 **Thoughts:** I really found going over all the exercises for JavaScript effective for retaining the information. The first time I went through the exercises, I needed to find help in forums, especially nearing the end of the module. The second time around, this time writing down the notes and understanding before jumping into the code really helped me figure it out on my own. I can't wait to be up to date on my developmentnotes wiki, so I can just update it in tandem with working on exercises, that way I no longer have to double back.
 
@@ -176,6 +176,16 @@
 ***
 
 ### Day 18: June 08, 2017, Thursday
+
+**Today's Progress**: Completed all the notes of the Object Oriented and Functional Programming FreeCodeCamp module for my developmentnotes wiki.
+
+**Thoughts:** Although this was a shorter chapter, I spend a lot of time and care going through the exercises. The next chapter is the slgorithm one, where I had a lot of trouble. But backtracking through this module really helped learn more about how objects were used in the next chapter. I hoping this extra effort of learning is retained for the more advanced modules of coding.
+
+**Link(s) to work:** [development notes wiki - Object Oriented and Functional Programming](https://github.com/SamLegros/developmentnotes/wiki/%5BFree-Code-Camp%5D-Object-Oriented-and-Functional-Programming)
+
+***
+
+### Day 19: June 09, 2017, Friday
 
 **Today's Progress**: 
 
