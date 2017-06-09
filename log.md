@@ -181,7 +181,7 @@
 
 **Thoughts:** Although this was a shorter chapter, I spend a lot of time and care going through the exercises. The next chapter is the slgorithm one, where I had a lot of trouble. But backtracking through this module really helped learn more about how objects were used in the next chapter. I hoping this extra effort of learning is retained for the more advanced modules of coding.
 
-**Link(s) to work:** [development notes wiki - Object Oriented and Functional Programming](https://github.com/SamLegros/developmentnotes/wiki/%5BFree-Code-Camp%5D-Object-Oriented-and-Functional-Programming)
+**Link(s) to work:** [developmentnotes wiki - Object Oriented and Functional Programming](https://github.com/SamLegros/developmentnotes/wiki/%5BFree-Code-Camp%5D-Object-Oriented-and-Functional-Programming)
 
 ***
 
