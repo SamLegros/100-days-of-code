@@ -187,11 +187,32 @@
 
 ### Day 19: June 09, 2017, Friday
 
+**Today's Progress**: Completed all the notes of the JSON APIs and Ajax FreeCodeCamp module for my developmentnotes wiki.
+
+**Thoughts:** I wanted to complete the FreeCodeCamp JavaScript modules before diving in (yet again) to the algorithm scripting modules. I remembered that JSONs were JavaScript based, and focused on objects, something I needed more practice with. Going over these exercises again helped better understand these objects.
+
+**Link(s) to work:** [JSON APIs and Ajax](https://github.com/SamLegros/developmentnotes/wiki/%5BFree-Code-Camp%5D-JSON-APIs-and-Ajax)
+
+***
+
+### Day 20: June 10, 2017, Saturday
+
+**Today's Progress**: Started a new CodePen project, where I practised with the Bootstrap framework.
+
+**Thoughts:** I had many difficulties with the first FreeCodeCamp front end projects, such as developing a perfonal portfolio webpage. I kept struggling with Bootstrap for some reason. I just thought it was because I've never encountered this before. Apparently, I kept importing the 4.0 beta version, where the documentation I was referencing from was the 3.0. As soon as I corrected which version of Bootstrap I was working with, it became a breeze! It was realy fun trying out some layout examples.
+
+**Link(s) to work:** [Bootstrap Test](https://codepen.io/SamLegros/pen/eRZOqy)
+
+***
+
+
+### Day 21: June 11, 2017, Sunday
+
 **Today's Progress**: 
 
 **Thoughts:** 
 
-**Link(s) to work:** 
+**Link(s) to work:**
 
 ***
 
