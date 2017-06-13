@@ -205,14 +205,23 @@
 
 ***
 
-
 ### Day 21: June 11, 2017, Sunday
 
-**Today's Progress**: 
+**Today's Progress**: I continued to work on my Bootstrap CodePen project, and read through the Bootstrap documentation.
 
-**Thoughts:** 
+**Thoughts:** My efforts on Bootstrap were slow but steady. I really wanted to ensure that every bit of code I was using, I understood. I noticed a trend that once my code gets beyond a certain length, things happen in the code that I can't explain. I really don't want to continue with that approach, so I made sure to take the extra time when implementing any part of the Bootstrap framework into my project.
 
-**Link(s) to work:**
+**Link(s) to work:** [Bootstrap Test](https://codepen.io/SamLegros/pen/eRZOqy)
+
+***
+
+### Day 22: June 12, 2017, Monday
+
+**Today's Progress**: I continued to work on my Bootstrap CodePen project, and read through the Bootstrap documentation.
+
+**Thoughts:** Today was almost identical to yesterday. It was my convocation ceremony today (graduating from the New Media program at Ryerson University), so I didn't have too much time to myself for coding. I did, however, continue to read up on the Bootstrap framework, and altered the goal of the project to merge with my Bootstrap test with my Heroes of the Storm Talent Quick Pick guide. Seeing that I've dedicated some time to learning the layout part of Bootstrap, I will then apply it to my other projects.
+
+**Link(s) to work:** Null
 
 ***
 
