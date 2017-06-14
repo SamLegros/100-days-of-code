@@ -225,4 +225,14 @@
 
 ***
 
+### Day 23: June 13, 2017, Tuesday
+
+**Today's Progress**: I continued to work on my Bootstrap CodePen project, and transitioned it to my Heroes of the Storm project.
+
+**Thoughts:** I continued working on my Bootstrap project, which then became my Heroes of the Storm project. I was more comfortable working with the layouts and decided to use this as the foundation for my personal project. There are a lot of characters to add, and I'm not experienced enough to script anything fancy just yet. I want something stable that works, so will continue to work on it this way, then simplify the code once I'm comfortable with the advanced code required.
+
+**Link(s) to work:** [Heroes of the Storm Talent Quick Pick](https://codepen.io/SamLegros/pen/eRZOqy?editors=1100)
+
+***
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
