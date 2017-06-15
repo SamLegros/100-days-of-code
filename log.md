@@ -231,7 +231,19 @@
 
 **Thoughts:** I continued working on my Bootstrap project, which then became my Heroes of the Storm project. I was more comfortable working with the layouts and decided to use this as the foundation for my personal project. There are a lot of characters to add, and I'm not experienced enough to script anything fancy just yet. I want something stable that works, so will continue to work on it this way, then simplify the code once I'm comfortable with the advanced code required.
 
-**Link(s) to work:** [Heroes of the Storm Talent Quick Pick](https://codepen.io/SamLegros/pen/eRZOqy?editors=1100)
+**Link(s) to work:** [Heroes of the Storm Talent Quick Pick](https://codepen.io/SamLegros/pen/eRZOqy)
+
+***
+
+### Day 24: June 14, 2017, Wednesday
+
+**Today's Progress**: I completed my Heroes of the Storm Talent Quick Pick CodePen project, and also completed all of the notes of the Basic Algorithm Scripting FreeCodeCamp module for my developmentnotes wiki.
+
+**Thoughts:** Finishing up my CodePen project was a great feeling, although I believe that these kinds of projects can never be fully completed. There are always ways to improve the code, refine the design, and add features. For now, this project satisfies my goals in created a mobile-friendly character reference guide for Heroes of the Storm. I had some extra time today, so I added all of my notes from the Basic Algorithm Scripting FreeCodeCamp module to my developmentnotes wiki. Now, I am fully up to date on my FreeCodeCamp. I look forward to really diving into the Intermediate Front End projects tomorrow!
+
+**Link(s) to work:**
+- [Heroes of the Storm Talent Quick Pick](https://codepen.io/SamLegros/pen/eRZOqy)
+- [Basic Algorithm Scripting](https://github.com/SamLegros/developmentnotes/wiki/%5BFree-Code-Camp%5D-Basic-Algorithm-Scripting)
 
 ***
 
