@@ -247,4 +247,14 @@
 
 ***
 
+### Day 25: June 15, 2017, Thursday
+
+**Today's Progress**: I made steady progress on FreeCodeCamp's Random Quote Machine project.
+
+**Thoughts:** I was nervous to start this exercise because I knew it required jQuery to connect to an API and get the JSON objects. That entire sentence consisted of coding skills I had never exercised in practise before. However, I took it one step at a time and made great progress, I was really proud of myself. I searched far and wide in many forums (even tried out asking a question on stackoverflow and got a grasp of what I needed to get this challenge done. I completed the quote generating part, I just need to finish some cosmetic tweaks and add the option to tweet out the quote.
+
+**Link(s) to work:** [Random Quote Machine](https://codepen.io/SamLegros/pen/KqNVvZ)
+
+***
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
