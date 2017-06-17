@@ -207,7 +207,7 @@
 
 ### Day 21: June 11, 2017, Sunday
 
-**Today's Progress**: I continued to work on my Bootstrap CodePen project, and read through the Bootstrap documentation.
+**Today's Progress**: Continued to work on my Bootstrap CodePen project, and read through the Bootstrap documentation.
 
 **Thoughts:** My efforts on Bootstrap were slow but steady. I really wanted to ensure that every bit of code I was using, I understood. I noticed a trend that once my code gets beyond a certain length, things happen in the code that I can't explain. I really don't want to continue with that approach, so I made sure to take the extra time when implementing any part of the Bootstrap framework into my project.
 
@@ -217,7 +217,7 @@
 
 ### Day 22: June 12, 2017, Monday
 
-**Today's Progress**: I continued to work on my Bootstrap CodePen project, and read through the Bootstrap documentation.
+**Today's Progress**: Continued to work on my Bootstrap CodePen project, and read through the Bootstrap documentation.
 
 **Thoughts:** Today was almost identical to yesterday. It was my convocation ceremony today (graduating from the New Media program at Ryerson University), so I didn't have too much time to myself for coding. I did, however, continue to read up on the Bootstrap framework, and altered the goal of the project to merge with my Bootstrap test with my Heroes of the Storm Talent Quick Pick guide. Seeing that I've dedicated some time to learning the layout part of Bootstrap, I will then apply it to my other projects.
 
@@ -227,7 +227,7 @@
 
 ### Day 23: June 13, 2017, Tuesday
 
-**Today's Progress**: I continued to work on my Bootstrap CodePen project, and transitioned it to my Heroes of the Storm project.
+**Today's Progress**: Continued to work on my Bootstrap CodePen project, and transitioned it to my Heroes of the Storm project.
 
 **Thoughts:** I continued working on my Bootstrap project, which then became my Heroes of the Storm project. I was more comfortable working with the layouts and decided to use this as the foundation for my personal project. There are a lot of characters to add, and I'm not experienced enough to script anything fancy just yet. I want something stable that works, so will continue to work on it this way, then simplify the code once I'm comfortable with the advanced code required.
 
@@ -237,7 +237,7 @@
 
 ### Day 24: June 14, 2017, Wednesday
 
-**Today's Progress**: I completed my Heroes of the Storm Talent Quick Pick CodePen project, and also completed all of the notes of the Basic Algorithm Scripting FreeCodeCamp module for my developmentnotes wiki.
+**Today's Progress**: Completed my Heroes of the Storm Talent Quick Pick CodePen project, and also completed all of the notes of the Basic Algorithm Scripting FreeCodeCamp module for my developmentnotes wiki.
 
 **Thoughts:** Finishing up my CodePen project was a great feeling, although I believe that these kinds of projects can never be fully completed. There are always ways to improve the code, refine the design, and add features. For now, this project satisfies my goals in created a mobile-friendly character reference guide for Heroes of the Storm. I had some extra time today, so I added all of my notes from the Basic Algorithm Scripting FreeCodeCamp module to my developmentnotes wiki. Now, I am fully up to date on my FreeCodeCamp. I look forward to really diving into the Intermediate Front End projects tomorrow!
 
@@ -249,11 +249,23 @@
 
 ### Day 25: June 15, 2017, Thursday
 
-**Today's Progress**: I made steady progress on FreeCodeCamp's Random Quote Machine project.
+**Today's Progress**: Made steady progress on FreeCodeCamp's Random Quote Machine project.
 
 **Thoughts:** I was nervous to start this exercise because I knew it required jQuery to connect to an API and get the JSON objects. That entire sentence consisted of coding skills I had never exercised in practise before. However, I took it one step at a time and made great progress, I was really proud of myself. I searched far and wide in many forums (even tried out asking a question on stackoverflow and got a grasp of what I needed to get this challenge done. I completed the quote generating part, I just need to finish some cosmetic tweaks and add the option to tweet out the quote.
 
 **Link(s) to work:** [Random Quote Machine](https://codepen.io/SamLegros/pen/KqNVvZ)
+
+***
+
+### Day 26: June 16, 2017, Friday
+
+**Today's Progress**: Completed the FreeCodeCamp's Random Quote Machine project, and started on the FreeCodeCamp's
+
+**Thoughts:** I was in the zone today! Every feature I wanted to add to my project was actually working out. It was really great working on this project. I had never thought I would be successfully using jQuery on my first project, but reading through all the documentation online and applying it to a project really helped. I also started on the next project, making a Local Weather web app. I want to make a cloud-like shape with divs, that is proving to be harder than expected, but I want to power through it.
+
+**Link(s) to work:**
+- [Random Quote Machine](https://codepen.io/SamLegros/pen/KqNVvZ)
+- [Local Weather](https://codepen.io/SamLegros/pen/YQNyVL)
 
 ***
 
