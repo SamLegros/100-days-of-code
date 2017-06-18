@@ -259,13 +259,23 @@
 
 ### Day 26: June 16, 2017, Friday
 
-**Today's Progress**: Completed the FreeCodeCamp's Random Quote Machine project, and started on the FreeCodeCamp's
+**Today's Progress**: Completed the FreeCodeCamp's Random Quote Machine project, and started on the FreeCodeCamp's Local Weather app.
 
 **Thoughts:** I was in the zone today! Every feature I wanted to add to my project was actually working out. It was really great working on this project. I had never thought I would be successfully using jQuery on my first project, but reading through all the documentation online and applying it to a project really helped. I also started on the next project, making a Local Weather web app. I want to make a cloud-like shape with divs, that is proving to be harder than expected, but I want to power through it.
 
 **Link(s) to work:**
 - [Random Quote Machine](https://codepen.io/SamLegros/pen/KqNVvZ)
-- [Local Weather](https://codepen.io/SamLegros/pen/YQNyVL)
+- [Local Weather App](https://codepen.io/SamLegros/pen/YQNyVL)
+
+***
+
+### Day 27: June 17, 2017, Saturday
+
+**Today's Progress**: Continued working on FreeCodeCamp's Local Weather app.
+
+**Thoughts:** I continued refining the design for my weather app, tweaking the look and gathering all the necessary background images from [unsplash.com](https://unsplash.com/). Today mostly focused on getting the look and design done before working on the more complex API part. I'm hoping that will go smoothly tomorrow.
+
+**Link(s) to work:** [Local Weather App](https://codepen.io/SamLegros/pen/rwjaRq)
 
 ***
 
