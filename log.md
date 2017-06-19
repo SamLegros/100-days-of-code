@@ -279,4 +279,14 @@
 
 ***
 
+### Day 28: June 18, 2017, Sunday
+
+**Today's Progress**: Continued working on FreeCodeCamp's Local Weather app.
+
+**Thoughts:** Most of my time coding today was figuring out how to connect to the Dark Sky API for this project. I searched endlessly online, and did find lots of great help. Unfortunately, all the solutions to other people's problems just weren't working for me. I understood that getting the geolocation from the user's browser is an asynchronous method, so I coded it to request after it received the geolocation, but it still never worked. It was only until I went on to the FreeCodeCamp's gitter chat, where the community there was able to find a solution! Always great to know the community has your back if you get stuck. I'm looking forward to (hopefully) completing this project tomorrow.
+
+**Link(s) to work:** [Local Weather App](https://codepen.io/SamLegros/pen/rwjaRq)
+
+***
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
