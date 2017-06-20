@@ -289,4 +289,14 @@
 
 ***
 
+### Day 29: June 19, 2017, Monday
+
+**Today's Progress**: Completed the FreeCodeCamp's Local Weather app.
+
+**Thoughts:** My local weather app is complete! Most of the functionality was sorted out yesterday, today was more refining the styling and look of it. Always a good feeling completing a larger project and have it work exactly how you wanted it. I also started looking into the next FreeCodeCamp project, building a Wikipedia viewer. Later in the day, a friend of mine may be able to get me an interview at a company where I would need to know some backend languages. That being said, I may just start on the backend module of FreeCodeCamp, to learn what I need in time for an interview.
+
+**Link(s) to work:** [Local Weather App](https://codepen.io/SamLegros/pen/rwjaRq)
+
+***
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
