@@ -191,7 +191,7 @@
 
 **Thoughts:** I wanted to complete the FreeCodeCamp JavaScript modules before diving in (yet again) to the algorithm scripting modules. I remembered that JSONs were JavaScript based, and focused on objects, something I needed more practice with. Going over these exercises again helped better understand these objects.
 
-**Link(s) to work:** [JSON APIs and Ajax](https://github.com/SamLegros/developmentnotes/wiki/%5BFree-Code-Camp%5D-JSON-APIs-and-Ajax)
+**Link(s) to work:** [developmentnotes wiki - JSON APIs and Ajax](https://github.com/SamLegros/developmentnotes/wiki/%5BFree-Code-Camp%5D-JSON-APIs-and-Ajax)
 
 ***
 
@@ -296,6 +296,18 @@
 **Thoughts:** My local weather app is complete! Most of the functionality was sorted out yesterday, today was more refining the styling and look of it. Always a good feeling completing a larger project and have it work exactly how you wanted it. I also started looking into the next FreeCodeCamp project, building a Wikipedia viewer. Later in the day, a friend of mine may be able to get me an interview at a company where I would need to know some backend languages. That being said, I may just start on the backend module of FreeCodeCamp, to learn what I need in time for an interview.
 
 **Link(s) to work:** [Local Weather App](https://codepen.io/SamLegros/pen/rwjaRq)
+
+***
+
+### Day 30: June 20, 2017, Tuesday
+
+**Today's Progress**: Completed 2 exercises on FreeCodeCamp, and updated my developmentnotes wiki.
+
+**Thoughts:** Today I focused on learning some important backend skills that may be needed for a potential job. That is why I jumped right into FreeCodeCamp's beginning exercises for the back end certification, testing and debugging, and an introduction to Git. The testing was extremely short, and just introduced the JavaScript developer console log, but that did segway nicely into the Git exercise. This was externally hosted as the Git-it [tutorial](http://jlord.us/git-it/). I already had some experience with Git from my days at Ryerson, but it was nice fun to learn it in a different way.
+
+**Link(s) to work:**
+- [developmentnotes wiki - Automated Testing and Debugging](https://github.com/SamLegros/developmentnotes/wiki/%5BFree-Code-Camp%5D-Automated-Testing-and-Debugging)
+- [developmentnotes wiki - Git (Git-it)](https://github.com/SamLegros/developmentnotes/wiki/%5BFree-Code-Camp%5D-Git-(Git-it))
 
 ***
 
