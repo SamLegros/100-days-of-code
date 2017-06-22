@@ -311,4 +311,14 @@
 
 ***
 
+### Day 31: June 22, 2017, Wednesday
+
+**Today's Progress**: Completed 10 exercises on Codecademy, and updated my developmentnotes wiki.
+
+**Thoughts:** I began Codecademy's Learn SQL module today, and completed the first section on the manipulation of databases. It seemed simple enough, I had used SQL (with a lot of help) a few years back, so the language was pretty familiar. It does help that the language is very english-esque, I hoping learning this will help with what I may need to know for the potential job.
+
+**Link(s) to work:** [developmentnotes wiki - Learn SQL](https://github.com/SamLegros/developmentnotes/wiki/%5BCodecademy%5D-Learn-SQL)
+
+***
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
