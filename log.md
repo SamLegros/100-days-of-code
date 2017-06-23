@@ -321,4 +321,14 @@
 
 ***
 
+### Day 32: June 23, 2017, Thursday
+
+**Today's Progress**: Completed 29 exercises on Codecademy, and updated my developmentnotes wiki.
+
+**Thoughts:** I completed Codecademy's Learn SQL module today. I really enjoy how simple the code is, yet it can be very powerful since it references and manipulates databases. I excited to apply this code in a project to witness the functionality first hand. I don't have access to Codecademy's projects or tests because I don't have the premium subscription. That is something I found is missing from learning coding online, all the resources I've come across don't help you with coding that newly learned language on your own. I remember learning JavaScript in Codecademy. I completed the module, but did not learn where to code JavaScript. Back then, I knew basic JavaSCript, but no idea where or how to actually code it into a website project, for example. I'm at that point with SQL now, I know the basic language, but where do I actually code it? Inside my HTML code, in CSS, in JavaScript? Where do I even get online hosting to host a database, how do I host multiple tables? I know I can just Google all these questions, but I still believe online courses should help direct beginners to additional resources.
+
+**Link(s) to work:** [developmentnotes wiki - Learn SQL](https://github.com/SamLegros/developmentnotes/wiki/%5BCodecademy%5D-Learn-SQL)
+
+***
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
