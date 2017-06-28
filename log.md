@@ -311,7 +311,7 @@
 
 ***
 
-### Day 31: June 22, 2017, Wednesday
+### Day 31: June 21, 2017, Wednesday
 
 **Today's Progress**: Completed 10 exercises on Codecademy, and updated my developmentnotes wiki.
 
@@ -321,7 +321,7 @@
 
 ***
 
-### Day 32: June 23, 2017, Thursday
+### Day 32: June 22, 2017, Thursday
 
 **Today's Progress**: Completed 29 exercises on Codecademy, and updated my developmentnotes wiki.
 
@@ -331,7 +331,7 @@
 
 ***
 
-### Day 33: June 24, 2017, Thursday
+### Day 33: June 23, 2017, Friday
 
 **Today's Progress**: Completed 12 exercises on Codecademy, and updated my developmentnotes wiki.
 
@@ -341,7 +341,7 @@
 
 ***
 
-### Days Missed: June 25, 26, and 27, 2017
+### Days Missed (4): June 24, 25, 26, and 27, 2017
 
 **Today's Progress**: On vacation.
 
