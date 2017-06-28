@@ -331,4 +331,20 @@
 
 ***
 
+### Day 33: June 24, 2017, Thursday
+
+**Today's Progress**: Completed 12 exercises on Codecademy, and updated my developmentnotes wiki.
+
+**Thoughts:** I began Codecademy's SQL: Analyzing Business Metrics module, since the description seems quite similar to what I will be doing should I get an interview for that position. This module is more advanced than the previous one, and I did have some difficulty with a few of the exercises. The coding still makes sense, but the syntax is incredibly different from what I used to, so it will take a while for me to learn how to think in this language.
+
+**Link(s) to work:** [developmentnotes wiki - SQL: Analyzing Business Metrics](https://github.com/SamLegros/developmentNotes/wiki/%5BCodecademy%5D-SQL:-Analyzing-Business-Metrics)
+
+***
+
+### Days Missed: June 25, 26, and 27, 2017
+
+**Today's Progress**: On vacation.
+
+***
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
