@@ -347,4 +347,14 @@
 
 ***
 
+### Day 34: June 28, 2017, Wednesday
+
+**Today's Progress**: Completed 14 exercises on Codecademy, and updated my developmentnotes wiki.
+
+**Thoughts:** I completed Codecademy's SQL: Analyzing Business Metrics module today. I was nervous that being away from code for a few days would wipe my brain clean of my little knowledge of SQL. Fortunately, I read through my developmentnotes before diving into the second half of this module, and I think this really helped. I got through the majority of the exercises with ease, and it was all making sense. Then I needed a little help, something I've noticed with Codecademy's learning structure. If there are 3 parts to an exercise, and you are stuck on the first part, requesting the code hint will provide the final answer to the third part. Meaning I won't know how the first or second part was supposed to be written. Then I try to search the exercise online, and I can't find a breakdown of the exercise. This system seems broken to me, they should provide you with step by step information for each part of an exercise, not just the end-goal.
+
+**Link(s) to work:** [developmentnotes wiki - SQL: Analyzing Business Metrics](https://github.com/SamLegros/developmentNotes/wiki/%5BCodecademy%5D-SQL:-Analyzing-Business-Metrics)
+
+***
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
