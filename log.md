@@ -341,9 +341,9 @@
 
 ***
 
-### Days Missed (4): June 24, 25, 26, and 27, 2017
+### Days Missed (4): June 24, 25, 26, 27, 2017
 
-**Today's Progress**: On vacation.
+**Reason**: On vacation.
 
 ***
 
