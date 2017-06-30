@@ -291,11 +291,11 @@
 
 ### Day 29: June 19, 2017, Monday
 
-**Today's Progress**: Completed the FreeCodeCamp's Local Weather app.
+**Today's Progress**: Completed the FreeCodeCamp's Local Weather project.
 
 **Thoughts:** My local weather app is complete! Most of the functionality was sorted out yesterday, today was more refining the styling and look of it. Always a good feeling completing a larger project and have it work exactly how you wanted it. I also started looking into the next FreeCodeCamp project, building a Wikipedia viewer. Later in the day, a friend of mine may be able to get me an interview at a company where I would need to know some backend languages. That being said, I may just start on the backend module of FreeCodeCamp, to learn what I need in time for an interview.
 
-**Link(s) to work:** [Local Weather App](https://codepen.io/SamLegros/pen/rwjaRq)
+**Link(s) to work:** [Local Weather Project](https://codepen.io/SamLegros/pen/rwjaRq)
 
 ***
 
@@ -354,6 +354,16 @@
 **Thoughts:** I completed Codecademy's SQL: Analyzing Business Metrics module today. I was nervous that being away from code for a few days would wipe my brain clean of my little knowledge of SQL. Fortunately, I read through my developmentnotes before diving into the second half of this module, and I think this really helped. I got through the majority of the exercises with ease, and it was all making sense. Then I needed a little help, something I've noticed with Codecademy's learning structure. If there are 3 parts to an exercise, and you are stuck on the first part, requesting the code hint will provide the final answer to the third part. Meaning I won't know how the first or second part was supposed to be written. Then I try to search the exercise online, and I can't find a breakdown of the exercise. This system seems broken to me, they should provide you with step by step information for each part of an exercise, not just the end-goal.
 
 **Link(s) to work:** [developmentnotes wiki - SQL: Analyzing Business Metrics](https://github.com/SamLegros/developmentNotes/wiki/%5BCodecademy%5D-SQL:-Analyzing-Business-Metrics)
+
+***
+
+### Day 35: June 29, 2017, Thursday
+
+**Today's Progress**: Completed the FreeCodeCamp's Wikipedia Viewer project.
+
+**Thoughts:** Despite reading through the extensive Wikipedia API documentation and feeling overwhelmed from the start, I am proud to have completed this project in a single day. I do believe I am getting more comfortable getting objects from APIs and manipulating them to develop functional and stylistic web apps. I thorougly enjoyed formulating the steps I required to complete the project, and work iterate through them slowly and steadily. Ensuring I am actually learning how things work when I needed to search a forum or YouTube video to help guide me.
+
+**Link(s) to work:** [Wikipedia Viewer project](https://codepen.io/SamLegros/pen/KqQwbe)
 
 ***
 
