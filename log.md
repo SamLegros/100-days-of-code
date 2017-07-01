@@ -367,4 +367,14 @@
 
 ***
 
+### Day 36: June 30, 2017, Friday
+
+**Today's Progress**: Started the FreeCodeCamp's Twitch.tv project.
+
+**Thoughts:** Today I began the final FreeCodeCamp intermediate front end development project, creating a Twitch.tv streamer viewer. It was a slow start in figuring out how to call the data since the API now requires an authentication key, but FreeCodeCamp provided information to bypass that. Once I got it working, I made steady progress. I'm very excited that it's becoming more and more common that all my code is intentional, and I use my previous projects and exercises as reference to help guide me, rather than searching online.
+
+**Link(s) to work:** [Twitch.tv project](https://codepen.io/SamLegros/pen/qjxQxx)
+
+***
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
