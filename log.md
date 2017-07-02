@@ -377,4 +377,14 @@
 
 ***
 
+### Day 37: July 1, 2017, Saturday
+
+**Today's Progress**: Continued working on the FreeCodeCamp's Twitch.tv project.
+
+**Thoughts:** I continued working on this project today. I thought this project was of similar nature to the Wikipedia Viewer project, however this one is a bit more complicated with the client ID work around and other JavaScript code needed. I was having difficulty trying to make my code more effecient by iterating through an array of streamers. I always have trouble when for loops and other math items are required. Fortunately, I did make steady progress and am learning as I go. It's tempting to just bail and write everything by hand, but I'm more than willing to spend the time to work this out, as I can see the potential of automating and iterating through objects and arrays.
+
+**Link(s) to work:** [Twitch.tv project](https://codepen.io/SamLegros/pen/PjRGdz)
+
+***
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
