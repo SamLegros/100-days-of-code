@@ -387,4 +387,14 @@
 
 ***
 
+### Day 38: July 2, 2017, Sunday
+
+**Today's Progress**: Continued working on the FreeCodeCamp's Twitch.tv project.
+
+**Thoughts:** I had some more trouble with the API calling again today, something about iterating through a for loop to populate four streamer divs with four separate getJSON calls. They all successfully go through, and I can pull the data and manipulate it. The only problem is that the array of streamers that are called back are in a random order every time. I'm assuming they are all called in order, but the order of when each getJSON is completed is random. It's not a big deal that this happens, but I wouldn't want this outcome for another type of project, so I'm still figuring out a way around this.
+
+**Link(s) to work:** [Twitch.tv project](https://codepen.io/SamLegros/pen/PjRGdz)
+
+***
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
