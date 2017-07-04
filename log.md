@@ -397,4 +397,14 @@
 
 ***
 
+### Day 39: July 3, 2017, Monday
+
+**Today's Progress**: Completed the FreeCodeCamp's Twitch.tv project.
+
+**Thoughts:** I am very proud of how this project was completed, I must say. I was struggling with the getJSON aspect of the code, and how if you try to call it twice, sometimes one is completed before the other. I spent a lot of time figuring out how to code a way to wait for each getJSON to be complete to then use the data, and it was all settled with a simple return function. I am very happy to have found a solution and successfully implemented it! I also used iterating functions that cut my code in half, and makes it easier to scale (great for future projects). Overall, I learned a great deal of how to think like a programmer, and I can't wait to apply my new skills in the future!
+
+**Link(s) to work:** [Twitch.tv project](https://codepen.io/SamLegros/pen/owdYOL)
+
+***
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
