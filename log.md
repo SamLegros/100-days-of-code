@@ -48,7 +48,7 @@
 
 **Thoughts:** I know, my personal project is pretty nerdy, but I read some FreeCodeCamp medium articles, and they all seem to suggest building personal projects. These give you the best experience, as you think of a problem and try to solve it with code. My 'problem' was that I tend to google the best character builds just before a match. Since I use the same site everytime, why not code a mobile-responsive website with all the information I need at my fingertips. I knew I had the basic skills to code it, as there is no backend or scripting required, it seems like a perfect first project.
 
-**Link(s) to work:** [HOTS Talen Quick Pick](https://codepen.io/SamLegros/pen/WjWKKM)
+**Link(s) to work:** [HOTS Talent Quick Pick](https://codepen.io/SamLegros/pen/WjWKKM)
 
 ***
 
@@ -104,11 +104,11 @@
 
 ### Day 11: June 01, 2017, Thursday
 
-**Today's Progress**: Completed 4 exercises on FreeCodeCamp, and began my developmentnotes GitHub repo.
+**Today's Progress**: Completed 4 exercises on FreeCodeCamp, and began my developmentNotes GitHub repo.
 
 **Thoughts:** I went back to the JavaScript algorithms and had the same experience as before. Slow as steady, thinking I'm making steady progress, when I fall short 90% of the way in. I did some research online, and it seems that, as long as I take the time and care to really understand where I'm falling short, there's no reason why I can't look for help. After all, the Read-Search-Ask methodology is heavily advertised all over the coding community. My development notes repo is where I will be storing all the coding techniques I've come across and used. My reasoning to start this was after my struggles on the algorithms, I had no organized way to look back on what I've learned, and I certainly can't remember everything off the top of my head. These notes will also develop my familiarity with GitHub, another skill I need to learn!
 
-**Link(s) to work:** [developmentnotes wiki](https://github.com/SamLegros/developmentnotes/wiki)
+**Link(s) to work:** [developmentNotes wiki](https://github.com/SamLegros/developmentNotes/wiki)
 
 ***
 
@@ -124,17 +124,17 @@
 
 ### Day 13: June 03, 2017, Saturday
 
-**Today's Progress**: Completed 3 exercises on FreeCodeCamp, and updated my developmentnotes wiki.
+**Today's Progress**: Completed 3 exercises on FreeCodeCamp, and updated my developmentNotes wiki.
 
-**Thoughts:** Today felt like one of those "just going through the motions" days. Although I did spend a lot of time on a low amount of exercises. The majority of my time was searching through forums and learning the several new coding techniques that I need, but wasn't exposed to, in order to complete the algorithm exercises. Yet another validation of my developmentnotes wiki. It's taking a while to go through all the code I've already learned and place it in the wiki, cannot wait to be up to date on that!
+**Thoughts:** Today felt like one of those "just going through the motions" days. Although I did spend a lot of time on a low amount of exercises. The majority of my time was searching through forums and learning the several new coding techniques that I need, but wasn't exposed to, in order to complete the algorithm exercises. Yet another validation of my developmentNotes wiki. It's taking a while to go through all the code I've already learned and place it in the wiki, cannot wait to be up to date on that!
 
-**Link(s) to work:** [developmentnotes wiki](https://github.com/SamLegros/developmentnotes/wiki)
+**Link(s) to work:** [developmentNotes wiki](https://github.com/SamLegros/developmentNotes/wiki)
 
 ***
 
 ### Day 14: June 04, 2017, Sunday
 
-**Today's Progress**: Completed 3 exercises on FreeCodeCamp, and updated my developmentnotes wiki.
+**Today's Progress**: Completed 3 exercises on FreeCodeCamp, and updated my developmentNotes wiki.
 
 **Thoughts:** Now, today felt like a repeat of yesterday with a twist, I had a positive attitude. Yesterday, I felt discouraged for basically needing the coding community to hold my hand every step of the way for the exercises I wanted to complete. Today, I felt that the coding community had my back and encouraged my to push through the tough times. I hope for one day that I can be the one who answers the questions on the forums, some day. I also won't provide link updates on my wiki everytime I made a contribution, that might become a little redundant. Only when I either make a major change or addition, will I address it in this log.
 
@@ -144,7 +144,7 @@
 
 ### Day 15: June 05, 2017, Monday
 
-**Today's Progress**: Forked my first repo (100DaysOfCode), and made some major updates to my developmentnotes wiki.
+**Today's Progress**: Forked my first repo (100DaysOfCode), and made some major updates to my developmentNotes wiki.
 
 **Thoughts:** Maybe it's just me, but I've always loved Mondays. A fresh start to the working week, time to set goals, get organized, and start working. Today, I took a little break from FreeCodeCamp and focused on my action plans for taking my coding to the next level. I came across the 100DaysOfCode challenge and instantly wanted to be a part of it. Looking back at my coding history, I'm actually on day 15 of coding at least 1 hour every day! Today is no different, but I officially made my pledge to commit to the challenge. After some discouragement from the FreeCodeCamp algorithms, I felt the need to complete at least 1 exercise a day to get that calendar contribution box to go green. I've finally realized how silly that was. Why basically skip an exercise just to prove that I 'coded' that day? The 100DaysOfCode is perfect! Forking the repo, and keeping a log keeps me accountable for how I spend my coding time. Here's to 85 more days of learning to code!
 
@@ -159,39 +159,39 @@
 **Thoughts:** I wanted to ensure that what I learned so far on FreeCodeCamp was being retained in my head. My biggest contributions today was going over the JavaScript module for my wiki. Just the process of re-reading the exercies and jotting down the notes somewhere really helps. Whenever I came across an exercise that didn't blatantly give away the answer, I would redo it to see if I retained the information. I also tried out the Premium version of the Mimo app, a mobile app that teaches you to code (think Duolingo for coding). It's pretty fun, and has it's own style to teaching, but I think I'll keep my programming to the computer for now.
 
 **Link(s) to work:** 
-- [developmentnotes wiki - Responsive Design with Bootstrap](https://github.com/SamLegros/developmentnotes/wiki/%5BFree-Code-Camp%5D-Responsive-Design-with-Bootstrap)
-- [developmentnotes wiki - jQuery](https://github.com/SamLegros/developmentnotes/wiki/%5BFree-Code-Camp%5D-jQuery)
-- [developmentnotes wiki - Basic JavaScript](https://github.com/SamLegros/developmentnotes/wiki/%5BFree-Code-Camp%5D-Basic-JavaScript)
+- [developmentNotes wiki - Responsive Design with Bootstrap](https://github.com/SamLegros/developmentNotes/wiki/%5BFree-Code-Camp%5D-Responsive-Design-with-Bootstrap)
+- [developmentNotes wiki - jQuery](https://github.com/SamLegros/developmentNotes/wiki/%5BFree-Code-Camp%5D-jQuery)
+- [developmentNotes wiki - Basic JavaScript](https://github.com/SamLegros/developmentNotes/wiki/%5BFree-Code-Camp%5D-Basic-JavaScript)
 
 ***
 
 ### Day 17: June 07, 2017, Wednesday
 
-**Today's Progress**: Completed all the notes of the Basic JavaSript FreeCodeCamp module for my developmentnotes wiki.
+**Today's Progress**: Completed all the notes of the Basic JavaSript FreeCodeCamp module for my developmentNotes wiki.
 
-**Thoughts:** I really found going over all the exercises for JavaScript effective for retaining the information. The first time I went through the exercises, I needed to find help in forums, especially nearing the end of the module. The second time around, this time writing down the notes and understanding before jumping into the code really helped me figure it out on my own. I can't wait to be up to date on my developmentnotes wiki, so I can just update it in tandem with working on exercises, that way I no longer have to double back.
+**Thoughts:** I really found going over all the exercises for JavaScript effective for retaining the information. The first time I went through the exercises, I needed to find help in forums, especially nearing the end of the module. The second time around, this time writing down the notes and understanding before jumping into the code really helped me figure it out on my own. I can't wait to be up to date on my developmentNotes wiki, so I can just update it in tandem with working on exercises, that way I no longer have to double back.
 
-**Link(s) to work:** [developmentnotes wiki - Basic JavaScript](https://github.com/SamLegros/developmentnotes/wiki/%5BFree-Code-Camp%5D-Basic-JavaScript)
+**Link(s) to work:** [developmentNotes wiki - Basic JavaScript](https://github.com/SamLegros/developmentNotes/wiki/%5BFree-Code-Camp%5D-Basic-JavaScript)
 
 ***
 
 ### Day 18: June 08, 2017, Thursday
 
-**Today's Progress**: Completed all the notes of the Object Oriented and Functional Programming FreeCodeCamp module for my developmentnotes wiki.
+**Today's Progress**: Completed all the notes of the Object Oriented and Functional Programming FreeCodeCamp module for my developmentNotes wiki.
 
 **Thoughts:** Although this was a shorter chapter, I spend a lot of time and care going through the exercises. The next chapter is the slgorithm one, where I had a lot of trouble. But backtracking through this module really helped learn more about how objects were used in the next chapter. I hoping this extra effort of learning is retained for the more advanced modules of coding.
 
-**Link(s) to work:** [developmentnotes wiki - Object Oriented and Functional Programming](https://github.com/SamLegros/developmentnotes/wiki/%5BFree-Code-Camp%5D-Object-Oriented-and-Functional-Programming)
+**Link(s) to work:** [developmentNotes wiki - Object Oriented and Functional Programming](https://github.com/SamLegros/developmentNotes/wiki/%5BFree-Code-Camp%5D-Object-Oriented-and-Functional-Programming)
 
 ***
 
 ### Day 19: June 09, 2017, Friday
 
-**Today's Progress**: Completed all the notes of the JSON APIs and Ajax FreeCodeCamp module for my developmentnotes wiki.
+**Today's Progress**: Completed all the notes of the JSON APIs and Ajax FreeCodeCamp module for my developmentNotes wiki.
 
 **Thoughts:** I wanted to complete the FreeCodeCamp JavaScript modules before diving in (yet again) to the algorithm scripting modules. I remembered that JSONs were JavaScript based, and focused on objects, something I needed more practice with. Going over these exercises again helped better understand these objects.
 
-**Link(s) to work:** [developmentnotes wiki - JSON APIs and Ajax](https://github.com/SamLegros/developmentnotes/wiki/%5BFree-Code-Camp%5D-JSON-APIs-and-Ajax)
+**Link(s) to work:** [developmentNotes wiki - JSON APIs and Ajax](https://github.com/SamLegros/developmentNotes/wiki/%5BFree-Code-Camp%5D-JSON-APIs-and-Ajax)
 
 ***
 
@@ -237,13 +237,13 @@
 
 ### Day 24: June 14, 2017, Wednesday
 
-**Today's Progress**: Completed my Heroes of the Storm Talent Quick Pick CodePen project, and also completed all of the notes of the Basic Algorithm Scripting FreeCodeCamp module for my developmentnotes wiki.
+**Today's Progress**: Completed my Heroes of the Storm Talent Quick Pick CodePen project, and also completed all of the notes of the Basic Algorithm Scripting FreeCodeCamp module for my developmentNotes wiki.
 
-**Thoughts:** Finishing up my CodePen project was a great feeling, although I believe that these kinds of projects can never be fully completed. There are always ways to improve the code, refine the design, and add features. For now, this project satisfies my goals in created a mobile-friendly character reference guide for Heroes of the Storm. I had some extra time today, so I added all of my notes from the Basic Algorithm Scripting FreeCodeCamp module to my developmentnotes wiki. Now, I am fully up to date on my FreeCodeCamp. I look forward to really diving into the Intermediate Front End projects tomorrow!
+**Thoughts:** Finishing up my CodePen project was a great feeling, although I believe that these kinds of projects can never be fully completed. There are always ways to improve the code, refine the design, and add features. For now, this project satisfies my goals in created a mobile-friendly character reference guide for Heroes of the Storm. I had some extra time today, so I added all of my notes from the Basic Algorithm Scripting FreeCodeCamp module to my developmentNotes wiki. Now, I am fully up to date on my FreeCodeCamp. I look forward to really diving into the Intermediate Front End projects tomorrow!
 
 **Link(s) to work:**
 - [Heroes of the Storm Talent Quick Pick](https://codepen.io/SamLegros/pen/eRZOqy)
-- [Basic Algorithm Scripting](https://github.com/SamLegros/developmentnotes/wiki/%5BFree-Code-Camp%5D-Basic-Algorithm-Scripting)
+- [Basic Algorithm Scripting](https://github.com/SamLegros/developmentNotes/wiki/%5BFree-Code-Camp%5D-Basic-Algorithm-Scripting)
 
 ***
 
@@ -301,43 +301,43 @@
 
 ### Day 30: June 20, 2017, Tuesday
 
-**Today's Progress**: Completed 2 exercises on FreeCodeCamp, and updated my developmentnotes wiki.
+**Today's Progress**: Completed 2 exercises on FreeCodeCamp, and updated my developmentNotes wiki.
 
 **Thoughts:** Today I focused on learning some important backend skills that may be needed for a potential job. That is why I jumped right into FreeCodeCamp's beginning exercises for the back end certification, testing and debugging, and an introduction to Git. The testing was extremely short, and just introduced the JavaScript developer console log, but that did segway nicely into the Git exercise. This was externally hosted as the Git-it [tutorial](http://jlord.us/git-it/). I already had some experience with Git from my days at Ryerson, but it was nice fun to learn it in a different way.
 
 **Link(s) to work:**
-- [developmentnotes wiki - Automated Testing and Debugging](https://github.com/SamLegros/developmentnotes/wiki/%5BFree-Code-Camp%5D-Automated-Testing-and-Debugging)
-- [developmentnotes wiki - Git (Git-it)](https://github.com/SamLegros/developmentnotes/wiki/%5BFree-Code-Camp%5D-Git-(Git-it))
+- [developmentNotes wiki - Automated Testing and Debugging](https://github.com/SamLegros/developmentNotes/wiki/%5BFree-Code-Camp%5D-Automated-Testing-and-Debugging)
+- [developmentNotes wiki - Git (Git-it)](https://github.com/SamLegros/developmentNotes/wiki/%5BFree-Code-Camp%5D-Git-(Git-it))
 
 ***
 
 ### Day 31: June 21, 2017, Wednesday
 
-**Today's Progress**: Completed 10 exercises on Codecademy, and updated my developmentnotes wiki.
+**Today's Progress**: Completed 10 exercises on Codecademy, and updated my developmentNotes wiki.
 
 **Thoughts:** I began Codecademy's Learn SQL module today, and completed the first section on the manipulation of databases. It seemed simple enough, I had used SQL (with a lot of help) a few years back, so the language was pretty familiar. It does help that the language is very english-esque, I hoping learning this will help with what I may need to know for the potential job.
 
-**Link(s) to work:** [developmentnotes wiki - Learn SQL](https://github.com/SamLegros/developmentnotes/wiki/%5BCodecademy%5D-Learn-SQL)
+**Link(s) to work:** [developmentNotes wiki - Learn SQL](https://github.com/SamLegros/developmentNotes/wiki/%5BCodecademy%5D-Learn-SQL)
 
 ***
 
 ### Day 32: June 22, 2017, Thursday
 
-**Today's Progress**: Completed 29 exercises on Codecademy, and updated my developmentnotes wiki.
+**Today's Progress**: Completed 29 exercises on Codecademy, and updated my developmentNotes wiki.
 
 **Thoughts:** I completed Codecademy's Learn SQL module today. I really enjoy how simple the code is, yet it can be very powerful since it references and manipulates databases. I excited to apply this code in a project to witness the functionality first hand. I don't have access to Codecademy's projects or tests because I don't have the premium subscription. That is something I found is missing from learning coding online, all the resources I've come across don't help you with coding that newly learned language on your own. I remember learning JavaScript in Codecademy. I completed the module, but did not learn where to code JavaScript. Back then, I knew basic JavaSCript, but no idea where or how to actually code it into a website project, for example. I'm at that point with SQL now, I know the basic language, but where do I actually code it? Inside my HTML code, in CSS, in JavaScript? Where do I even get online hosting to host a database, how do I host multiple tables? I know I can just Google all these questions, but I still believe online courses should help direct beginners to additional resources.
 
-**Link(s) to work:** [developmentnotes wiki - Learn SQL](https://github.com/SamLegros/developmentnotes/wiki/%5BCodecademy%5D-Learn-SQL)
+**Link(s) to work:** [developmentNotes wiki - Learn SQL](https://github.com/SamLegros/developmentNotes/wiki/%5BCodecademy%5D-Learn-SQL)
 
 ***
 
 ### Day 33: June 23, 2017, Friday
 
-**Today's Progress**: Completed 12 exercises on Codecademy, and updated my developmentnotes wiki.
+**Today's Progress**: Completed 12 exercises on Codecademy, and updated my developmentNotes wiki.
 
 **Thoughts:** I began Codecademy's SQL: Analyzing Business Metrics module, since the description seems quite similar to what I will be doing should I get an interview for that position. This module is more advanced than the previous one, and I did have some difficulty with a few of the exercises. The coding still makes sense, but the syntax is incredibly different from what I used to, so it will take a while for me to learn how to think in this language.
 
-**Link(s) to work:** [developmentnotes wiki - SQL: Analyzing Business Metrics](https://github.com/SamLegros/developmentNotes/wiki/%5BCodecademy%5D-SQL:-Analyzing-Business-Metrics)
+**Link(s) to work:** [developmentNotes wiki - SQL: Analyzing Business Metrics](https://github.com/SamLegros/developmentNotes/wiki/%5BCodecademy%5D-SQL:-Analyzing-Business-Metrics)
 
 ***
 
@@ -349,11 +349,11 @@
 
 ### Day 34: June 28, 2017, Wednesday
 
-**Today's Progress**: Completed 14 exercises on Codecademy, and updated my developmentnotes wiki.
+**Today's Progress**: Completed 14 exercises on Codecademy, and updated my developmentNotes wiki.
 
-**Thoughts:** I completed Codecademy's SQL: Analyzing Business Metrics module today. I was nervous that being away from code for a few days would wipe my brain clean of my little knowledge of SQL. Fortunately, I read through my developmentnotes before diving into the second half of this module, and I think this really helped. I got through the majority of the exercises with ease, and it was all making sense. Then I needed a little help, something I've noticed with Codecademy's learning structure. If there are 3 parts to an exercise, and you are stuck on the first part, requesting the code hint will provide the final answer to the third part. Meaning I won't know how the first or second part was supposed to be written. Then I try to search the exercise online, and I can't find a breakdown of the exercise. This system seems broken to me, they should provide you with step by step information for each part of an exercise, not just the end-goal.
+**Thoughts:** I completed Codecademy's SQL: Analyzing Business Metrics module today. I was nervous that being away from code for a few days would wipe my brain clean of my little knowledge of SQL. Fortunately, I read through my developmentNotes before diving into the second half of this module, and I think this really helped. I got through the majority of the exercises with ease, and it was all making sense. Then I needed a little help, something I've noticed with Codecademy's learning structure. If there are 3 parts to an exercise, and you are stuck on the first part, requesting the code hint will provide the final answer to the third part. Meaning I won't know how the first or second part was supposed to be written. Then I try to search the exercise online, and I can't find a breakdown of the exercise. This system seems broken to me, they should provide you with step by step information for each part of an exercise, not just the end-goal.
 
-**Link(s) to work:** [developmentnotes wiki - SQL: Analyzing Business Metrics](https://github.com/SamLegros/developmentNotes/wiki/%5BCodecademy%5D-SQL:-Analyzing-Business-Metrics)
+**Link(s) to work:** [developmentNotes wiki - SQL: Analyzing Business Metrics](https://github.com/SamLegros/developmentNotes/wiki/%5BCodecademy%5D-SQL:-Analyzing-Business-Metrics)
 
 ***
 
@@ -409,11 +409,11 @@
 
 ### Day 40: July 4, 2017, Tuesday
 
-**Today's Progress**: Completed 3 exercises on FreeCodeCamp, and updated my developmentnotes wiki.
+**Today's Progress**: Completed 3 exercises on FreeCodeCamp, and updated my developmentNotes wiki.
 
 **Thoughts:** Ahh, back to good ole scripting exercises, the bane of my existence for programming. These set of exercises are intermediate, and it really shows. I was only able to complete and understand three today because they took me so long. For each exercise today, I would attempt my own code, formulating some pseudocode to answer the exercise, then try the actual syntax. I am able to understand the logic needed for each script, I just stumble on the exact syntax to make it work. This made my worried if I'm just not learning code, despite my successful front end projects and building my portfolio of functioning web apps. I then had a chat with a good friend of mine who is a developer, and she assured me that everyone stuggles with exact syntax, and that if I can at least figure out the logic and understand the pseudocode before searching the answer, I am learning. Repetition of using the correct syntax while understanding what it does, is learning. This gave me more confidence to push forward on these scripting exercises.
 
-**Link(s) to work:** [developmentnotes wiki - Intermediate Algorithm Scripting](https://github.com/SamLegros/developmentNotes/wiki/%5BFree-Code-Camp%5D-Intermediate-Algorithm-Scripting)
+**Link(s) to work:** [developmentNotes wiki - Intermediate Algorithm Scripting](https://github.com/SamLegros/developmentNotes/wiki/%5BFree-Code-Camp%5D-Intermediate-Algorithm-Scripting)
 
 ***
 
