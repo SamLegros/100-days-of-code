@@ -407,4 +407,14 @@
 
 ***
 
+### Day 40: July 4, 2017, Tuesday
+
+**Today's Progress**: Completed 3 exercises on FreeCodeCamp, and updated my developmentnotes wiki.
+
+**Thoughts:** Ahh, back to good ole scripting exercises, the bane of my existence for programming. These set of exercises are intermediate, and it really shows. I was only able to complete and understand three today because they took me so long. For each exercise today, I would attempt my own code, formulating some pseudocode to answer the exercise, then try the actual syntax. I am able to understand the logic needed for each script, I just stumble on the exact syntax to make it work. This made my worried if I'm just not learning code, despite my successful front end projects and building my portfolio of functioning web apps. I then had a chat with a good friend of mine who is a developer, and she assured me that everyone stuggles with exact syntax, and that if I can at least figure out the logic and understand the pseudocode before searching the answer, I am learning. Repetition of using the correct syntax while understanding what it does, is learning. This gave me more confidence to push forward on these scripting exercises.
+
+**Link(s) to work:** [developmentnotes wiki - Intermediate Algorithm Scripting](https://github.com/SamLegros/developmentNotes/wiki/%5BFree-Code-Camp%5D-Intermediate-Algorithm-Scripting)
+
+***
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
