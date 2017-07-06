@@ -417,4 +417,14 @@
 
 ***
 
+### Day 41: July 5, 2017, Wednesday
+
+**Today's Progress**: Completed 7 exercises on FreeCodeCamp, and updated my developmentNotes wiki.
+
+**Thoughts:** More algorithm scripting today. It did help workout out the pseudocode before attempting the proper syntax in a sense. It validated that I am able to pretty much solve what the script needs to perform in order to achieve the intended results. I am still required to search for help online with the proper syntax. Here's hoping that I am learning and that practice will make it easier each time.
+
+**Link(s) to work:** [developmentNotes wiki - Intermediate Algorithm Scripting](https://github.com/SamLegros/developmentNotes/wiki/%5BFree-Code-Camp%5D-Intermediate-Algorithm-Scripting)
+
+***
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
