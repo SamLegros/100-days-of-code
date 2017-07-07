@@ -427,4 +427,15 @@
 
 ***
 
+### Day 42: July 6, 2017, Thursday
+
+**Today's Progress**: Completed 4 exercises on FreeCodeCamp, updated my developmentNotes wiki, and created a virtual server for Curated Canvas.
+
+**Thoughts:** I completed a few algorithms today, but I just wasn't feeling it. I was just going through the motions, and I wanted to complete something tangible today. That is why I created a virtual server for a project I'm working on, Curated Canvas. This process took a very long time today. Many YouTube tutorials, online forums, and asking friends, but I am very proud that I was able to do all this and successfully implement everything: Created an Ubuntu Linux EC2 instance on AWS, SSH'd to it and installed the Linux, Apache, MySQL, PHP (LAMP) stack on Ubuntu, connected to the server via FileZilla, FTP'd a tester index.html page, and connected a subdomain to the instance DNS. Talk about a busy day! I look forward to at least trying my own code for this project, but before diving right in, I'll probably learn more about GitHub and version control to better understand how to back up my code.
+
+**Link(s) to work:** 
+- [developmentNotes wiki - Intermediate Algorithm Scripting](https://github.com/SamLegros/developmentNotes/wiki/%5BFree-Code-Camp%5D-Intermediate-Algorithm-Scripting)
+ - [Curated Canvas Beta Code](http://beta.curatedcanvas.org/)
+***
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
