@@ -436,6 +436,19 @@
 **Link(s) to work:** 
 - [developmentNotes wiki - Intermediate Algorithm Scripting](https://github.com/SamLegros/developmentNotes/wiki/%5BFree-Code-Camp%5D-Intermediate-Algorithm-Scripting)
  - [Curated Canvas Beta Code](http://beta.curatedcanvas.org/)
+ 
+***
+
+### Day 43: July 7, 2017, Friday
+
+**Today's Progress**: Completed 3 exercises on FreeCodeCamp, updated my developmentNotes wiki, and updated the landing page of Curated Canvas.
+
+**Thoughts:** I completed a few more algorithms today, but was more interested in working on Curated Canvas since that was a new experience. I updated the landing page with some basic text and some re-directing links, nothing special. Just setting up the stylesheet and whatnot. I did a lot of researching online of how to properly use GitHub for managing a project. I completed an online tutorial and created a private repo for Curated Canvas. I was able to make it private because I applied for and was accepted for the GitHub Student Developer Pack. Can't wait to take advantage of all the great perks that comes with it, I'm sure they will help with my pursuit of learning code.
+
+**Link(s) to work:** 
+- [developmentNotes wiki - Intermediate Algorithm Scripting](https://github.com/SamLegros/developmentNotes/wiki/%5BFree-Code-Camp%5D-Intermediate-Algorithm-Scripting)
+ - [Curated Canvas Beta Code](http://beta.curatedcanvas.org/)
+ 
 ***
 
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
