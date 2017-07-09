@@ -451,4 +451,14 @@
  
 ***
 
+### Day 44: July 8, 2017, Saturday
+
+**Today's Progress**: Worked on the sign up page for Curated Canvas.
+
+**Thoughts:** I didn't have a decent internet connection for the weekend, so I decided to develop Curated Canvas log in page locally. This gave me a chance to learn how to properly load scripts such as jQuery, Font Awesome, and Animate.css. It was really fun working on the webpage, especially since I had designed all the pages beforehand on Adobe XD. Lots of html and css coding today, always a good time when things work properly! Here's hoping that once I transfer the files from my local machine to the server, it doesn't mess things up!
+
+**Link(s) to work:** Null
+ 
+***
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
