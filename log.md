@@ -461,4 +461,14 @@
  
 ***
 
+### Day 45: July 9, 2017, Sunday
+
+**Today's Progress**: Worked on the log in and sign up page for Curated Canvas.
+
+**Thoughts:** In the same boat today as yesterday, so I continued working on my local html and css. Today, I was having a lot of difficulty working on the jQuery and JavaScript. Turns out I wasn't using the proper script for either the script.js or animate.css. Once that was figured out, the rest came pretty easily to me. I would add a link to my work, however the connection over here is too slow for FileZilla to properly connect to my EC2 server. We'll all just have to be patient here.
+
+**Link(s) to work:** Null
+ 
+***
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
