@@ -377,7 +377,7 @@
 
 ***
 
-### Day 37: July 1, 2017, Saturday
+### Day 37: July 01, 2017, Saturday
 
 **Today's Progress**: Continued working on the FreeCodeCamp's Twitch.tv project.
 
@@ -387,7 +387,7 @@
 
 ***
 
-### Day 38: July 2, 2017, Sunday
+### Day 38: July 02, 2017, Sunday
 
 **Today's Progress**: Continued working on the FreeCodeCamp's Twitch.tv project.
 
@@ -397,7 +397,7 @@
 
 ***
 
-### Day 39: July 3, 2017, Monday
+### Day 39: July 03, 2017, Monday
 
 **Today's Progress**: Completed the FreeCodeCamp's Twitch.tv project.
 
@@ -407,7 +407,7 @@
 
 ***
 
-### Day 40: July 4, 2017, Tuesday
+### Day 40: July 04, 2017, Tuesday
 
 **Today's Progress**: Completed 3 exercises on FreeCodeCamp, and updated my developmentNotes wiki.
 
@@ -417,7 +417,7 @@
 
 ***
 
-### Day 41: July 5, 2017, Wednesday
+### Day 41: July 05, 2017, Wednesday
 
 **Today's Progress**: Completed 7 exercises on FreeCodeCamp, and updated my developmentNotes wiki.
 
@@ -427,7 +427,7 @@
 
 ***
 
-### Day 42: July 6, 2017, Thursday
+### Day 42: July 06, 2017, Thursday
 
 **Today's Progress**: Completed 4 exercises on FreeCodeCamp, updated my developmentNotes wiki, and created a virtual server for Curated Canvas.
 
@@ -439,7 +439,7 @@
  
 ***
 
-### Day 43: July 7, 2017, Friday
+### Day 43: July 07, 2017, Friday
 
 **Today's Progress**: Completed 3 exercises on FreeCodeCamp, updated my developmentNotes wiki, and updated the landing page of Curated Canvas.
 
@@ -451,7 +451,7 @@
  
 ***
 
-### Day 44: July 8, 2017, Saturday
+### Day 44: July 08, 2017, Saturday
 
 **Today's Progress**: Worked on the sign up page for Curated Canvas.
 
@@ -461,7 +461,7 @@
  
 ***
 
-### Day 45: July 9, 2017, Sunday
+### Day 45: July 09, 2017, Sunday
 
 **Today's Progress**: Worked on the log in and sign up page for Curated Canvas.
 
