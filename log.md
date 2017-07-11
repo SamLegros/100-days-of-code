@@ -471,4 +471,14 @@
  
 ***
 
+### Day 46: July 10, 2017, Monday
+
+**Today's Progress**: Completed 23 exercises on Codecademy, and updated my developmentNotes wiki
+
+**Thoughts:**  I decided to change things up a bit and learn some PHP for both Curated Canvas and just as another programming language to add to my toolbelt. I applied as a research assistant for the upcoming fall semester that is looking for someone who knows PHP, figured its a good time to start learning this. So far so good, most of what I am learning now overlaps what I already know from HTML and JavaScript, but reviewing is still being productive.
+
+**Link(s) to work:** [PHP](https://github.com/SamLegros/developmentNotes/wiki/PHP)
+ 
+***
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
