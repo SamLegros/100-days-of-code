@@ -492,4 +492,14 @@
  
 ***
 
+### Day 48: July 12, 2017, Wednesday
+
+**Today's Progress**: Completed 17 exercises on Codecademy, and updated my developmentNotes wiki
+
+**Thoughts:** Same boat as yesterday, completed a whole bunch of PHP exercises on Codecademy with limited internet. Now, I'm not sure if it's my connection issues, but typing in the Codecademy terminal is a nightmare! If I try to type in quotations, it moves my cursor around the page! I need to type out my code in a text editor, then copy-paste it into the Codecademy terminal, only then it sometimes work. Sometimes the code only works once I've copy-pasted the correct code from the Codecademy answer help (even if it's the exact same as my own code). Weird...
+
+**Link(s) to work:** [developmentNotes wiki - PHP](https://github.com/SamLegros/developmentNotes/wiki/PHP)
+ 
+***
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
