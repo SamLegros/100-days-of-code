@@ -502,4 +502,24 @@
  
 ***
 
+### Day 49: July 13, 2017, Thursday
+
+**Today's Progress**: Completed 8 exercises on Codecademy, and updated my developmentNotes wiki
+
+**Thoughts:** Today I completed first section of PHP functions. It's interesting how similar this language is to HTML, with little differences in the syntax. I looking forward to implement this language in action with Curated Canvas, seems like there is a lot of potential here.
+
+**Link(s) to work:** [developmentNotes wiki - PHP](https://github.com/SamLegros/developmentNotes/wiki/PHP)
+ 
+***
+
+### Day 50: July 14, 2017, Friday
+
+**Today's Progress**: Worked on the sign up page for Curated Canvas.
+
+**Thoughts:** I decided to shake things up and go back to working on Curated Canvas offline today. I wanted to write some code in an editor that worked, rather than learn about PHP syntax. I figured I will wait until I am back home (with better internet) to test my newly acquired PHP skills. Today I worked on the sign up page, just formatting it to match the sign in page, coming along very nicely.
+
+**Link(s) to work:** Null
+ 
+***
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
