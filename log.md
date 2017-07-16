@@ -522,4 +522,14 @@
  
 ***
 
+### Day 51: July 15, 2017, Saturday
+
+**Today's Progress**: Completed 7 exercises on Codecademy, and updated my developmentNotes wiki
+
+**Thoughts:** I completed the second part of the Codecademy's PHP functions exercises. This was more of a review of the basic syntax and use for functions. However, it did take longer than expected because of the editor troubles on Codecademy, I basically can't type in apostrophes nor quotations. That being said, I would write my code in the text editor for this wiki, then copy-paste it into the editor. Unfortunately, for some reason, the code would only work half the time. When it wouldn't work, I would have to copy-paste the specific names of functions over my written code, even when the function names are the exact same! For example, if Codecademy was looking for me to make a function called squareValue, I would type that in this wiki, copy-paste the code (it wouldn't run properly). I would then have to copy the squareValue function from the exercise instruction text, and paste it over my squareValue function (that was written the exact same way), only then will the code work and allow me to proceed to the next exercise.
+
+**Link(s) to work:** [developmentNotes wiki - PHP](https://github.com/SamLegros/developmentNotes/wiki/PHP)
+ 
+***
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
