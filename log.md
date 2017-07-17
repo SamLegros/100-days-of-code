@@ -532,4 +532,14 @@
  
 ***
 
+### Day 52: July 16, 2017, Sunday
+
+**Today's Progress**: Completed 9 exercises on Codecademy, and updated my developmentNotes wiki
+
+**Thoughts:** Today's exercises were regarding object-oriented programming in PHP. This was a great module as this type of coding is essential for many things, yet is quite complex and I have a history of having difficulty with it. The examples here were straightforward, and although the syntax differs slightly than that of JavaScript, the principles remain the same. Side note, I am back home where the internet connect is just fine, and I was still having issues with the Codecademy editor, meaning I still need to write the code here, then copy-paste it back to the editor. I'm not too worried, as I am almost done the PHP module.
+
+**Link(s) to work:** [developmentNotes wiki - PHP](https://github.com/SamLegros/developmentNotes/wiki/PHP)
+ 
+***
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
