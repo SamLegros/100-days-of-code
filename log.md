@@ -542,4 +542,14 @@
  
 ***
 
+### Day 53: July 17, 2017, Monday
+
+**Today's Progress**: Completed 8 exercises on Codecademy, and updated my developmentNotes wiki
+
+**Thoughts:** These exercices were the advanced iterations of OOP in PHP. It was going so smoothly, I understood everything (or so I thought), and knew the proper syntax, until the final 'put it all together' challenge. I went over my notes, revisited past exercises, but something was just not working. Turns out there was a single line of code that did not match the rest of my notes, where inside a child class, you apparently don't need the word public before a const variable. This was not outlined at all in the Codecademy notes. Meaning I will need to do some more research as to why that is.
+
+**Link(s) to work:** [developmentNotes wiki - PHP](https://github.com/SamLegros/developmentNotes/wiki/PHP)
+ 
+***
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
