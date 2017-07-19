@@ -435,7 +435,7 @@
 
 **Link(s) to work:** 
 - [developmentNotes wiki - Intermediate Algorithm Scripting](https://github.com/SamLegros/developmentNotes/wiki/%5BFree-Code-Camp%5D-Intermediate-Algorithm-Scripting)
- - [Curated Canvas Beta Code](http://beta.curatedcanvas.org/)
+ - [Curated Canvas beta](http://beta.curatedcanvas.org/)
  
 ***
 
@@ -447,7 +447,7 @@
 
 **Link(s) to work:** 
 - [developmentNotes wiki - Intermediate Algorithm Scripting](https://github.com/SamLegros/developmentNotes/wiki/%5BFree-Code-Camp%5D-Intermediate-Algorithm-Scripting)
- - [Curated Canvas Beta Code](http://beta.curatedcanvas.org/)
+ - [Curated Canvas beta](http://beta.curatedcanvas.org/)
  
 ***
 
@@ -549,6 +549,18 @@
 **Thoughts:** These exercices were the advanced iterations of OOP in PHP. It was going so smoothly, I understood everything (or so I thought), and knew the proper syntax, until the final 'put it all together' challenge. I went over my notes, revisited past exercises, but something was just not working. Turns out there was a single line of code that did not match the rest of my notes, where inside a child class, you apparently don't need the word public before a const variable. This was not outlined at all in the Codecademy notes. Meaning I will need to do some more research as to why that is.
 
 **Link(s) to work:** [developmentNotes wiki - PHP](https://github.com/SamLegros/developmentNotes/wiki/PHP)
+ 
+***
+
+### Day 54: July 18, 2017, Tuesday
+
+**Today's Progress**: Completed 7 exercises on Codecademy, updated my developmentNotes wiki, and updated Curated Canvas beta.
+
+**Thoughts:** I completed the PHP module on Codecademy. Although I do feel that I learned a lot in terms of PHP syntax and how to manipulate the code, I still have this feeling of 'not really learning' the language. I felt this way before upon completing the HTML,  CSS, and JavaScript modules on Codecademy too. You know what is missing (well, it's not really missing. More like, what is missing that is free), it's actually implementing the newly acquired skill! I remember completing the JavaScript module and then thinking "okay, now how/where/why/when do I actually use JavaScript?". There was no mentioning that you can create a script.js file and then add the coding there to manipulate your html elements, for example. I had no idea what to do with JavaScript. This is where Free Code Camp does it so very well. You learn the language, and then you get concrete projects to exercise your knowledge! I absolutely love this model, where you can see a direct result of the newly acquired skills. I'm assuming this is possible with Codecademy, you just need to pay for it. Oh, I also ftp'd my Curated Canvas files to the server, so they are live and you can view the progress in the link below. I was so nervous that me developing them offline would have unintended effects upon being pushed to a live server, and when I did just that and refreshed the page, all the formatting was off! Turns out, I just needed to clear my cache, and everything looks and functions the way I wanted it to!
+
+**Link(s) to work:**
+- [developmentNotes wiki - PHP](https://github.com/SamLegros/developmentNotes/wiki/PHP)
+- [Curated Canvas beta](http://beta.curatedcanvas.org/)
  
 ***
 
