@@ -564,4 +564,14 @@
  
 ***
 
+### Day 55: July 19, 2017, Wednesday
+
+**Today's Progress**: Completed a YouTube tutorial on creating a PHP/MySQL registration page for user sign ups.
+
+**Thoughts:** This tutorial was a great starter for actually implementing PHP into an HTML page and seeing the results. This tutorial also explained how I can't just run php pages in a browser, I needed to setup some kind of server to test it on. In comes MAMP to save the day! Really easy to setup a local server to test your PHP/MySQL coding. Although I completed the tutotrial, I still feel like I'm missing a lot in important information to know about setting up MySQL specifically. I will probably go over a few more tutorials on this tomorrow.
+
+**Link(s) to work:** [User Registration Form with PHP and MySQL](https://www.youtube.com/watch?v=FgSysHTsb6A)
+ 
+***
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
