@@ -574,4 +574,14 @@
  
 ***
 
+### Day 56: July 20, 2017, Thursday
+
+**Today's Progress**: Completed several YouTube tutorials on creating a PHP/MySQL login and registration page for users.
+
+**Thoughts:** Today was a bit more frustrating, as I had to spend a lot of time searching for a video tutorial that matched my level of knowledge of PHP and MySQL. I knew the basics, but still wanted one that walked us through all of the steps and explain the reasoning for each line of code. After many half-completed tutorials (mostly because I can follow the video up to a certain point, then when I try refreshing the PHP page, it just doesn't load. That's the frustrating part of PHP, if one thing doesn't work, it can't pinpoint the error for you), I finally came across one that had it all. Funnily enough, around 45 minutes into this one, I ran my page, and it didn't work! I was so upset! I had to rewatch it to find that I missed a single ) character, it worked perfectly after that. I will be finishing the tutorial tomorrow.
+
+**Link(s) to work:** [44: How to create a complete login system in PHP | PHP tutorial | Learn PHP programming](https://www.youtube.com/watch?v=xb8aad4MRx8)
+ 
+***
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
