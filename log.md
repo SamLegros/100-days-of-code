@@ -584,4 +584,16 @@
  
 ***
 
+### Day 57: July 21, 2017, Friday
+
+**Today's Progress**: Completed a YouTube tutorial on creating a PHP/MySQL login and registration page for users, completed 4 exercises on Codecademy, and updated my developmentNotes wiki 
+
+**Thoughts:** It was very satisfying completing the over an hour long YouTube tutorial and it actually working! I am now able to program a user sign up, and log in page! Although this was a big breakthrough, I felt it necessary to switch back to Free Code Camp. I am almost done all of the modules for the Front End Development Certificate. I finished up the remaining intermediate algorithm scripting exercises with great difficulty. I was able to get the pseudo code, but the syntax and specific functions required for the specific outcomes are things I still need help with. I'm hoping the advanced projects will help me learn and apply these scripts.
+
+**Link(s) to work:**
+- [44: How to create a complete login system in PHP | PHP tutorial | Learn PHP programming](https://www.youtube.com/watch?v=xb8aad4MRx8)
+- [developmentNotes wiki - Intermediate Algorithm Scripting](https://github.com/SamLegros/developmentNotes/wiki/%5BFree-Code-Camp%5D-Intermediate-Algorithm-Scripting)
+ 
+***
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
