@@ -253,39 +253,39 @@
 
 **Thoughts:** I was nervous to start this exercise because I knew it required jQuery to connect to an API and get the JSON objects. That entire sentence consisted of coding skills I had never exercised in practise before. However, I took it one step at a time and made great progress, I was really proud of myself. I searched far and wide in many forums (even tried out asking a question on stackoverflow and got a grasp of what I needed to get this challenge done. I completed the quote generating part, I just need to finish some cosmetic tweaks and add the option to tweet out the quote.
 
-**Link(s) to work:** [Random Quote Machine](https://codepen.io/SamLegros/pen/KqNVvZ)
+**Link(s) to work:** [Random Quote Machine project](https://codepen.io/SamLegros/pen/KqNVvZ)
 
 ***
 
 ### Day 26: June 16, 2017, Friday
 
-**Today's Progress**: Completed the FreeCodeCamp's Random Quote Machine project, and started on the FreeCodeCamp's Local Weather app.
+**Today's Progress**: Completed the FreeCodeCamp's Random Quote Machine project, and started on the FreeCodeCamp's Local Weather project.
 
 **Thoughts:** I was in the zone today! Every feature I wanted to add to my project was actually working out. It was really great working on this project. I had never thought I would be successfully using jQuery on my first project, but reading through all the documentation online and applying it to a project really helped. I also started on the next project, making a Local Weather web app. I want to make a cloud-like shape with divs, that is proving to be harder than expected, but I want to power through it.
 
 **Link(s) to work:**
-- [Random Quote Machine](https://codepen.io/SamLegros/pen/KqNVvZ)
-- [Local Weather App](https://codepen.io/SamLegros/pen/YQNyVL)
+- [Random Quote Machine project](https://codepen.io/SamLegros/pen/KqNVvZ)
+- [Local Weather project](https://codepen.io/SamLegros/pen/YQNyVL)
 
 ***
 
 ### Day 27: June 17, 2017, Saturday
 
-**Today's Progress**: Continued working on FreeCodeCamp's Local Weather app.
+**Today's Progress**: Continued working on FreeCodeCamp's Local Weather project.
 
 **Thoughts:** I continued refining the design for my weather app, tweaking the look and gathering all the necessary background images from [unsplash.com](https://unsplash.com/). Today mostly focused on getting the look and design done before working on the more complex API part. I'm hoping that will go smoothly tomorrow.
 
-**Link(s) to work:** [Local Weather App](https://codepen.io/SamLegros/pen/rwjaRq)
+**Link(s) to work:** [Local Weather project](https://codepen.io/SamLegros/pen/rwjaRq)
 
 ***
 
 ### Day 28: June 18, 2017, Sunday
 
-**Today's Progress**: Continued working on FreeCodeCamp's Local Weather app.
+**Today's Progress**: Continued working on FreeCodeCamp's Local Weather project.
 
 **Thoughts:** Most of my time coding today was figuring out how to connect to the Dark Sky API for this project. I searched endlessly online, and did find lots of great help. Unfortunately, all the solutions to other people's problems just weren't working for me. I understood that getting the geolocation from the user's browser is an asynchronous method, so I coded it to request after it received the geolocation, but it still never worked. It was only until I went on to the FreeCodeCamp's gitter chat, where the community there was able to find a solution! Always great to know the community has your back if you get stuck. I'm looking forward to (hopefully) completing this project tomorrow.
 
-**Link(s) to work:** [Local Weather App](https://codepen.io/SamLegros/pen/rwjaRq)
+**Link(s) to work:** [Local Weather project](https://codepen.io/SamLegros/pen/rwjaRq)
 
 ***
 
@@ -295,7 +295,7 @@
 
 **Thoughts:** My local weather app is complete! Most of the functionality was sorted out yesterday, today was more refining the styling and look of it. Always a good feeling completing a larger project and have it work exactly how you wanted it. I also started looking into the next FreeCodeCamp project, building a Wikipedia viewer. Later in the day, a friend of mine may be able to get me an interview at a company where I would need to know some backend languages. That being said, I may just start on the backend module of FreeCodeCamp, to learn what I need in time for an interview.
 
-**Link(s) to work:** [Local Weather Project](https://codepen.io/SamLegros/pen/rwjaRq)
+**Link(s) to work:** [Local Weather project](https://codepen.io/SamLegros/pen/rwjaRq)
 
 ***
 
@@ -586,13 +586,23 @@
 
 ### Day 57: July 21, 2017, Friday
 
-**Today's Progress**: Completed a YouTube tutorial on creating a PHP/MySQL login and registration page for users, completed 4 exercises on Codecademy, and updated my developmentNotes wiki 
+**Today's Progress**: Completed a YouTube tutorial on creating a PHP/MySQL login and registration page for users, completed 4 exercises on Codecademy, and updated my developmentNotes wiki .
 
 **Thoughts:** It was very satisfying completing the over an hour long YouTube tutorial and it actually working! I am now able to program a user sign up, and log in page! Although this was a big breakthrough, I felt it necessary to switch back to Free Code Camp. I am almost done all of the modules for the Front End Development Certificate. I finished up the remaining intermediate algorithm scripting exercises with great difficulty. I was able to get the pseudo code, but the syntax and specific functions required for the specific outcomes are things I still need help with. I'm hoping the advanced projects will help me learn and apply these scripts.
 
 **Link(s) to work:**
 - [44: How to create a complete login system in PHP | PHP tutorial | Learn PHP programming](https://www.youtube.com/watch?v=xb8aad4MRx8)
 - [developmentNotes wiki - Intermediate Algorithm Scripting](https://github.com/SamLegros/developmentNotes/wiki/%5BFree-Code-Camp%5D-Intermediate-Algorithm-Scripting)
+ 
+***
+
+### Day 58: July 22, 2017, Saturday
+
+**Today's Progress**: Started the FreeCodeCamp's JavaScript Calculator project.
+
+**Thoughts:** I was quite nervous to begin this advanced front end development project because it's building a tool that does math, a scary subject. However, I decided to break down this project into steps. Starting with the layout and styling, making sure the look and feel is exactly how I want it to be, before even thinking about the complex backend that must be required to complete it. Styling it took a little longer than expected, it's those long buttons that shift everything out of place. Fortunately, I was able to code what I wanted today. Tomorrow, I will get started on the JavaScript end of things.
+
+**Link(s) to work:** [JavaScript Calculator project](https://codepen.io/SamLegros/pen/mMbzLo)
  
 ***
 
