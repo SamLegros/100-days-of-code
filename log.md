@@ -606,4 +606,14 @@
  
 ***
 
+### Day 59: July 23, 2017, Sunday
+
+**Today's Progress**: Continued working on FreeCodeCamp's JavaScript Calculator project.
+
+**Thoughts:** This is turning out to be more complex than I realized. I finished up all the styling, and then added the functionalities to the buttons. I think I figured that part out, I have all the number and operation buttons doing their things. What I forsee myself being stuck on is what to do with the array of numbers once you hit that equals button. So far I have all the operations pushed into a single array and I just need to figure out how to compute the operation. I would be simple if it was limited to a single operation, but the challenge requires the ability to chain operations (such as 3x3+5/5). This will make things complicated, I really hope I can figure this one out on my own.
+
+**Link(s) to work:** [JavaScript Calculator project](https://codepen.io/SamLegros/pen/mMbzLo)
+ 
+***
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
