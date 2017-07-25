@@ -616,4 +616,14 @@
  
 ***
 
+### Day 60: July 24, 2017, Monday
+
+**Today's Progress**: Completed the FreeCodeCamp's JavaScript Calculator project.
+
+**Thoughts:** Today was just one of those great days of coding. I was approaching the finish line, all I needed to do was figure out how to compute the string of operations I was getting when you pressed the buttons on the calculator (ex. 3*4-5/2). I was drafting all sorts of crazy functions and scripts trying to parse through the damn string to then be able to calculate it. Such as looping through the array, saving the numbers to one variable, then switching upon hitting an operation, trying out switch cases, the works. Then I came across the simple eval() function. This actually just takes my perfectly formed string, and computes it. Problem solved! I was so thrilled that I even through in a little easter egg into my calculator. Meaning there appears a hidden message when a user types in a certain combination of numbers. Can you find it? It actually shouldn't be that difficult since you want view the source code, but where's the fun in that. 
+
+**Link(s) to work:** [JavaScript Calculator project](https://codepen.io/SamLegros/pen/mMbzLo)
+ 
+***
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
