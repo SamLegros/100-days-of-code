@@ -626,4 +626,24 @@
  
 ***
 
+### Day 61: July 25, 2017, Tuesday
+
+**Today's Progress**: Started working on FreeCodeCamp's Pomodoro Clock project.
+
+**Thoughts:** This exercise, like all the previous ones, seem so simple to code. It is only when you are waist-deep when you realize that the functionalities you need to add are more complex than anticipated. I do find these projects are perfectly structured for preparing us coding newbies for the real world. Introducing projects with more scripting involved, trains us to ensure that we are coding something that won't easily break. Sure, styling a website is easy because it can just look a certain way and you're done, but developing a calculator or clock, you need to make sure it actually works! Today, I focused on styling a look and feel for my clock, then worry about the advanced scripting tomorrow. It was pretty tough landing on a certain look, but I made sure I didn't settle, and kept at it until it looked exactly how I wanted it.
+
+**Link(s) to work:** [Pomodoro Clock project](https://codepen.io/SamLegros/pen/prJeyW)
+ 
+***
+
+### Day 62: July 26, 2017, Wednesday
+
+**Today's Progress**: Completed the FreeCodeCamp's Pomodoro Clock project.
+
+**Thoughts:** I was very surprised that I was actually able to fully complete this project! I vividly remember struggling with timers and countdowns, so much resetting and other structures are needed so nothing breaks. To my surprise, I was able to complete 99% of the scripting by working out some form of pseudo code, and then searching online for helping tutorials and examples. The last 1% that was missing was getting the reset button to fully stop the timer. I then went onto the Free Code Camp Gitter chat and asked if someone could help me. Not to my surprise, someone jumped in, went over my code, and notified me that I was missing a single, but crucial line of code. He was so kind and helpful, really appreciate how nice the online coding community can be. I was also very glad that the line of code I was missing was a simple mistake, that was easily corrected. I fully expected him to say that my code was terrible and I'm not doing something right here. It's very encouraging that coding is simply solving a problem, it's more creative and simply typing in a language, there are many ways to do one thing.
+
+**Link(s) to work:** [Pomodoro Clock project](https://codepen.io/SamLegros/pen/prJeyW)
+ 
+***
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
