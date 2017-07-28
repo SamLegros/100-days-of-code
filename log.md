@@ -646,4 +646,14 @@
  
 ***
 
+### Day 63: July 26, 2017, Thursday
+
+**Today's Progress**: Started working on the FreeCodeCamp's Tic Tac Toe project.
+
+**Thoughts:** Now this project will be incorporating a new skillset that I have never done before, scripting in some form of AI. Creating a simple Tic Tac Toe game seems easy enough, but once player options are set in and you can play against the computer, things start to get interesting. Now, I've done some form of AI in Processing, but that method used brute force, rather than algorithm scripting. I wonder how I should approach this form of AI for the game. Today, I focused on styling the project, and creating the layouts needed for each game state. I will probably begin the AI as just placing random moves around the available spots on the board, then migrate to a smarter form of AI where the player will never win. That will make it more fun, right?
+
+**Link(s) to work:** [Tic Tac Toe project](https://codepen.io/SamLegros/pen/LjpVYE)
+ 
+***
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
