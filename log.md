@@ -656,4 +656,16 @@
  
 ***
 
+### Day 64: July 28, 2017, Friday
+
+**Today's Progress**: Completed the FreeCodeCamp's Tic Tac Toe project, and started working on the FreeCodeCamp's final Front End Development Project, building a Simon Says project.
+
+**Thoughts:** I thouroughly enjoyed working on this project! It was similar to previous ones, where I began with the layout and styling, and then moved into the complex backend of things. I deliberately coded an "AI" that wasn't impossible to beat, I mean, where's the fun in that. It was a different experience coding some form of "AI" for a project, where if it didn't work the way I wanted (ex, there was something wrong in the code), I would blame the AI as if it was an actual living entity. I completed the project a lot faster than I had anticipated, that is why I started on the Simon says project. I am excited to start working on this one! It is also very encouraging when I tweet out a completed project, and the feedback is always so positive and uplifting from the online community!
+
+**Link(s) to work:**
+- [Tic Tac Toe project](https://codepen.io/SamLegros/pen/LjpVYE)
+- [Simon Says project](https://codepen.io/SamLegros/pen/WEQWaj)
+ 
+***
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
