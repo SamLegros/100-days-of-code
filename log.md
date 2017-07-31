@@ -676,4 +676,14 @@
 
 **Link(s) to work:** [Simon Says project](https://codepen.io/SamLegros/pen/WEQWaj)
 
+***
+
+### Day 66: July 30, 2017, Sunday
+
+**Today's Progress**: Continued working on the FreeCodeCamp's Simon Says project.
+
+**Thoughts:** Today I focused on styling the project to look exactly how I imagined it. Figuring out some button issues took longer than expected, but I do believe that the overall structure and layout are not ready for some scripting. I started doodling the psuedo code in my notebook, because I want to make sure that I have a gameplan on how to tackle this challenge. A few of my previous projects, I just dove in head first and adapted to any new changes that I didn't forsee. This usually ends up in the code being very messing, but it still gets the job done. I want this project to be code that I am proud of!
+
+**Link(s) to work:** [Simon Says project](https://codepen.io/SamLegros/pen/WEQWaj)
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
