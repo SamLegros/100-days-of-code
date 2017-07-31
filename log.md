@@ -668,4 +668,12 @@
  
 ***
 
+### Day 65: July 29, 2017, Saturday
+
+**Today's Progress**: Continued working on the FreeCodeCamp's Simon Says project.
+
+**Thoughts:** I didn't have too much time for coding today, so I squeezed in as much as I could in the morning. I continued styling the Simon Says board to look as much like the original as possible, using HTML and CSS, and not any background images or other gimmicks. I must say that by the end of my coding session, I had structured and stylized the game pretty well using only HTML and CSS. I figured that since this is my final project, there is no way that I am cutting any corners or giving up early to complete this any faster. I have great instructions and users stories that need to be completed, and am looking forward to diving into the complex scripting that will be needed for this project.
+
+**Link(s) to work:** [Simon Says project](https://codepen.io/SamLegros/pen/WEQWaj)
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
