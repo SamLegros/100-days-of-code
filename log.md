@@ -686,4 +686,14 @@
 
 **Link(s) to work:** [Simon Says project](https://codepen.io/SamLegros/pen/WEQWaj)
 
+***
+
+### Day 67: July 31, 2017, Monday
+
+**Today's Progress**: Continued working on the FreeCodeCamp's Simon Says project.
+
+**Thoughts:** I began to add some functionalities to the structured project. For some reason, I began the layout of the game with divs that had no functionality. I changed them to buttons and created that pressing animation that lights up each button. The actual playing of the game will be something else of a challenge to overcome. It took me longer than expected to figure out how to add an animation to the winning display screen, then remove the animation class, in case a user actually wins twice in one sitting. It was tempting to just leave that part out, but I stayed the course and eventually figured things out.
+
+**Link(s) to work:** [Simon Says project](https://codepen.io/SamLegros/pen/WEQWaj)
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
