@@ -696,4 +696,14 @@
 
 **Link(s) to work:** [Simon Says project](https://codepen.io/SamLegros/pen/WEQWaj)
 
+***
+
+### Day 68: August 01, 2017, Tuesday
+
+**Today's Progress**: Continued working on the FreeCodeCamp's Simon Says project.
+
+**Thoughts:** Today I started to add the functionalities to the project, a task that seems to be a bit more complex than anticipated. Overall, I do believe I have most of the project complete. One can play the game in its entirety, use the strict mode, and even reset for a new game. The only trouble I am having is getting the colours to properly display with delays for each sequence. They all seem to light up at the same time, and it's only their shut off that is properly delayed. Once that I figure that one out, I just need to clean up a few things, add sound effects, then I am done!
+
+**Link(s) to work:** [Simon Says project](https://codepen.io/SamLegros/pen/WEQWaj)
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
