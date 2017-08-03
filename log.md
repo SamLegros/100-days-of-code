@@ -706,4 +706,16 @@
 
 **Link(s) to work:** [Simon Says project](https://codepen.io/SamLegros/pen/WEQWaj)
 
+***
+
+### Day 69: August 02, 2017, Wednesday
+
+**Today's Progress**: Completed the FreeCodeCamp's Simon Says project, and received my Front End Development Certification from Free Code Camp.
+
+**Thoughts:** What a wonderful day for my journey of learning to code! I finally completed my Simon Says project, there were several bumps in the road, but I am proud to have overcome them all by myself. It was very exciting to slowly add the functionilities one by one and it actually working along the way. Once it was completed and I submitted it for review, I was prompted to claim my Front End Development Certification. I am very excited to receive this award, and I can't believe I am actually "good" enough to have this sort of certification. I really never pictured myself being able to code that well to earn some sort of milestone. I cannot wait to get started on backend projects!
+
+**Link(s) to work:**
+- [Simon Says project](https://codepen.io/SamLegros/pen/WEQWaj)
+- [Front End Development Certification](https://www.freecodecamp.org/samlegros/front-end-certification)
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
