@@ -14,7 +14,7 @@
 
 ### Day 2: May 23, 2017, Tuesday
 
-**Today's Progress**: Completed 5 exercises on FreeCodeCamp, and got started on my Personal Portfolio Webpage.
+**Today's Progress**: Completed 5 exercises on FreeCodeCamp, and began working on my Personal Portfolio Webpage.
 
 **Thoughts:** I was having difficulty putting a navigation bar at the top of my window that stays on top of the content. I'm wondering if Bootstrap is acting up, or my programming skills aren't up to par. I went through many websites and forums for help, still no luck with the responsive formatting, I'm hoping tomorrow will yield better results.
 
@@ -717,5 +717,15 @@
 **Link(s) to work:**
 - [Simon Says project](https://codepen.io/SamLegros/pen/WEQWaj)
 - [Front End Development Certification](https://www.freecodecamp.org/samlegros/front-end-certification)
+
+***
+
+### Day 70: August 03, 2017, Thursday
+
+**Today's Progress**: Completed 6 exercises on FreeCodeCamp, and updated my developmentNotes wiki.
+
+**Thoughts:** It's nice going back to learning something new from Free Code Camp, although these exercises on npm are being completed on Cloud 9. Most of the exercises are straightforward with direct instructions on how to complete each exercise. I do have some trouble when the exercise says to do something that seems so simple, but since Free Code Camp has not touched the command line yet, I don't know the commands. It's not that big of a deal since I just learn as I go, it actually enables me to research online and learn on my own. I'm very excited to see where this Back End Development module leads me.
+
+**Link(s) to work:** [developmentNotes wiki - Node.js and Express.js](https://github.com/SamLegros/developmentNotes/wiki/%5BFree-Code-Camp%5D-Node.js-and-Express.js)
 
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
