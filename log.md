@@ -722,9 +722,29 @@
 
 ### Day 70: August 03, 2017, Thursday
 
-**Today's Progress**: Completed 6 exercises on FreeCodeCamp, and updated my developmentNotes wiki.
+**Today's Progress**: Completed 4 exercises on FreeCodeCamp, and updated my developmentNotes wiki.
 
 **Thoughts:** It's nice going back to learning something new from Free Code Camp, although these exercises on npm are being completed on Cloud 9. Most of the exercises are straightforward with direct instructions on how to complete each exercise. I do have some trouble when the exercise says to do something that seems so simple, but since Free Code Camp has not touched the command line yet, I don't know the commands. It's not that big of a deal since I just learn as I go, it actually enables me to research online and learn on my own. I'm very excited to see where this Back End Development module leads me.
+
+**Link(s) to work:** [developmentNotes wiki - Node.js and Express.js](https://github.com/SamLegros/developmentNotes/wiki/%5BFree-Code-Camp%5D-Node.js-and-Express.js)
+
+***
+
+### Day 71: August 04, 2017, Friday
+
+**Today's Progress**: Completed 4 exercises on FreeCodeCamp, and updated my developmentNotes wiki.
+
+**Thoughts:** Continued working on the NPM module. It's pretty interesting learning this way through the command line on a remote instance that can run Node.js packages. It is taking me a bit longer to complete these exercises because I am writing down extensive notes and constantly looking up new terms as they come up. I wonder what it will be like to create working projects using these npm packages.
+
+**Link(s) to work:** [developmentNotes wiki - Node.js and Express.js](https://github.com/SamLegros/developmentNotes/wiki/%5BFree-Code-Camp%5D-Node.js-and-Express.js)
+
+***
+
+### Day 72: August 05, 2017, Saturday
+
+**Today's Progress**: Completed 3 exercises on FreeCodeCamp, and updated my developmentNotes wiki.
+
+**Thoughts:** More exercises for the npm tutorial. I'm beginning to be a little skeptical as to what I can actually create with these npm packages. Are these backend databases, or is it like running a remote server to host website pages? I am assuming that all of this will be detailed in the next Free Code Camp module. At least when I started the Front End part, I had some background experience with HTML and CSS, where now, I have almost zero knowledge of backend requirements. However, I am really excited to learn all about back nd things to create projects that can store data with tables and such. I've always been fascinated by data, and I'm sure this module comes in handy later on!
 
 **Link(s) to work:** [developmentNotes wiki - Node.js and Express.js](https://github.com/SamLegros/developmentNotes/wiki/%5BFree-Code-Camp%5D-Node.js-and-Express.js)
 
