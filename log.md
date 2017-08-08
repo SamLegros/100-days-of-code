@@ -758,4 +758,14 @@
 
 **Link(s) to work:** [developmentNotes wiki - Manage Packages with NPM](https://github.com/SamLegros/developmentNotes/wiki/%5BFree-Code-Camp%5D-Node.js-and-Express.js)
 
+***
+
+### Day 74: August 07, 2017, Monday
+
+**Today's Progress**: Completed 7 exercises on FreeCodeCamp, and updated my developmentNotes wiki.
+
+**Thoughts:** The new module I am working on is the Start a Node.js Server. The exercises were pretty straight forward, creating simple Javascript programs that utilize the functionalities of the Node.js server. However, I feel that the difficulty curve is way too steep for a beginner tutorial module. I searched online for help, and it seems that this module on Free Code Camp may be "broken" in that is it too difficult for early Back End campers, such as myself. Fortunately, I was able to find several resources that broke down each exercise to assist with the proper syntax. I always try to complete an exercise myself, but am always one step short to complete it. That is where online help comes in hand.
+
+**Link(s) to work:** [developmentNotes wiki - Start a Node.js Server](https://github.com/SamLegros/developmentNotes/wiki/%5BFree-Code-Camp%5D-Start-a-Node.js-Server)
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
