@@ -756,7 +756,7 @@
 
 **Thoughts:** These final exercises took much longer than anticipated. Although most of them required typing in specific commands into the remote terminal, there was one exercise that had little to no documentation, but expected you to know some specific syntax to complete it. It was for the dist-tag removal, I tried so many combinations of code, but nothing was working out. I was only after spending a long time searching through forums and YouTube videos where I found the correct way to complete the exercise. Although it was a new experience, I don't feel that I learned too much about what exactly NPMs are used for. I guess that will be demonstrated in a later module. That is where my developmentNotes wiki comes in handy, for quick reference, rather than searching through the entire module again.
 
-**Link(s) to work:** [developmentNotes wiki - Manage Packages with NPM](https://github.com/SamLegros/developmentNotes/wiki/%5BFree-Code-Camp%5D-Node.js-and-Express.js)
+**Link(s) to work:** [developmentNotes wiki - Manage Packages with NPM](https://github.com/SamLegros/developmentNotes/wiki/%5BFree-Code-Camp%5D-Node.js-(learnyounode))
 
 ***
 
@@ -766,6 +766,16 @@
 
 **Thoughts:** The new module I am working on is the Start a Node.js Server. The exercises were pretty straight forward, creating simple Javascript programs that utilize the functionalities of the Node.js server. However, I feel that the difficulty curve is way too steep for a beginner tutorial module. I searched online for help, and it seems that this module on Free Code Camp may be "broken" in that is it too difficult for early Back End campers, such as myself. Fortunately, I was able to find several resources that broke down each exercise to assist with the proper syntax. I always try to complete an exercise myself, but am always one step short to complete it. That is where online help comes in hand.
 
-**Link(s) to work:** [developmentNotes wiki - Start a Node.js Server](https://github.com/SamLegros/developmentNotes/wiki/%5BFree-Code-Camp%5D-Start-a-Node.js-Server)
+**Link(s) to work:** [developmentNotes wiki - Node.js (learnyounode)](https://github.com/SamLegros/developmentNotes/wiki/%5BFree-Code-Camp%5D-Node.js-(learnyounode))
+
+***
+
+### Day 75: August 08, 2017, Tuesday
+
+**Today's Progress**: Completed the learnyounode module on FreeCodeCamp, and updated my developmentNotes wiki.
+
+**Thoughts:** I am very glad to be done this module. I am repeating myself when I say that the learning curve for this module was extremely steep, especially for beginner and aspiring backend developers. The first exercise was print out the words HELLO WORLD, and the 5th one was HTTP Client protocols, asynchronous functions, all without proper documentation. This did not spark any enthusiasm for Node.js, nor do I believe I learned that much, since most of my time was spent searching for why a certain exercise wasn't working properly. Apparently I wasn't alone on this, and this gives me hope. I will most likely search for another tutorial on Node.js, seeing that this one may have passed me by without sticking.
+
+**Link(s) to work:** [developmentNotes wiki - Node.js (learnyounode)](https://github.com/SamLegros/developmentNotes/wiki/%5BFree-Code-Camp%5D-Node.js-(learnyounode))
 
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
