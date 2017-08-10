@@ -778,4 +778,14 @@
 
 **Link(s) to work:** [developmentNotes wiki - Node.js (learnyounode)](https://github.com/SamLegros/developmentNotes/wiki/%5BFree-Code-Camp%5D-Node.js-(learnyounode))
 
+***
+
+### Day 76: August 09, 2017, Wednesday
+
+**Today's Progress**: Started the w3schools tutorial for Node.js, and updated my developmentNotes wiki.
+
+**Thoughts:** Just as I suspected, I attemped the next challenge on Free Code Camp, Express.js, but even the Hello World example was out of my league. The previous module didn't really teach at a beginner level, so I don't think I absorbed the proper information to move on. That being said, I decided to search for a simple tutorial on Node.js to 're-learn' this tool. I decided to go with the w3schools Node.js tutorial for beginners. After completing several steps, so far so good. I am taking diligent notes, and not moving forward until I understand the concepts. I already feel like I have learned more from w3schools because it gave context to what Node.js is and how it operates. The previous module did no such thing, it just dove right into the code (same with how-to-npm, it never actually detailed what npm stood for!). I am confident that this module will help me get back on track, there seems to be a lot of potential for using Node.js.
+
+**Link(s) to work:** [developmentNotes wiki - Node.js (w3schools)](https://github.com/SamLegros/developmentNotes/wiki/%5Bw3schools%5D-Node.js)
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
