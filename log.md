@@ -788,4 +788,14 @@
 
 **Link(s) to work:** [developmentNotes wiki - Node.js Tutorial (w3schools)](https://github.com/SamLegros/developmentNotes/wiki/%5Bw3schools%5D-Node.js-Tutorial)
 
+***
+
+### Day 77: August 10, 2017, Thursday
+
+**Today's Progress**: Completed the w3schools Node.js Tutorial, and updated my developmentNotes wiki.
+
+**Thoughts:** This tutorial of Node.js was a great introduction to this tool! It was simple, yet provided many useful examples such as the HTTP server, or even sending emails via Node.js. I was left somewhat hanging (yet again, when completing an online coding tutorial online), where I now know the basics of the language/tool, but no idea how to implement it and make it work. I know to initiate a file you need the command line, but how would one even create the file on a server, and have it launched when an event was fired? I guess this tutorial was just the basic features and syntax to get a foundation. I would need to do further research and tutorials until I am ready to see it in action on my own. I am thinking that I will do the w3schools PHP tutorial next, just to give myself better context for this tool. I forsee myself using PHP udirng the next few months, so I may just take a break from the Free Code Camp Back End Development Certification (mostly, because I just cannot keep up with the difficulty curve), and hone my PHP skills.
+
+**Link(s) to work:** [developmentNotes wiki - Node.js Tutorial (w3schools)](https://github.com/SamLegros/developmentNotes/wiki/%5Bw3schools%5D-Node.js-Tutorial)
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
