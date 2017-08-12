@@ -798,4 +798,14 @@
 
 **Link(s) to work:** [developmentNotes wiki - Node.js Tutorial (w3schools)](https://github.com/SamLegros/developmentNotes/wiki/%5Bw3schools%5D-Node.js-Tutorial)
 
+***
+
+### Day 78: August 11, 2017, Friday
+
+**Today's Progress**: Stared the w3schools PHP 5 Tutorial, and updated my developmentNotes wiki.
+
+**Thoughts:** I've decided to pursue PHP as my first server side language to learn and use for projects. I was contemplating trying out Node.js in order to complete the Free Code Camp Back End Development Certification. However, I do believe that I will be using PHP more often in the next several months, with school and other personal projects. I need to buckle down and stop jumping from language to language, that is why I starting from the beginning once again, this time doing the w3schools tutorial for PHP. So far, I thoroughly enjoy the background and context w3schools provides at the start of their tutorials, it's a great setup to see how PHP is used, and what it can be used to do. I'm excited to learn more about this tool, and cannot wait to see it in action!
+
+**Link(s) to work:** [developmentNotes wiki - PHP 5 Tutorial (w3schools)](https://github.com/SamLegros/developmentNotes/wiki/%5Bw3schools%5D-PHP-5-Tutorial)
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
