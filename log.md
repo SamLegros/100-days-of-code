@@ -808,4 +808,12 @@
 
 **Link(s) to work:** [developmentNotes wiki - PHP 5 Tutorial (w3schools)](https://github.com/SamLegros/developmentNotes/wiki/%5Bw3schools%5D-PHP-5-Tutorial)
 
+### Day 79: August 12, 2017, Saturday
+
+**Today's Progress**: Continued the w3schools PHP 5 Tutorial, and updated my developmentNotes wiki.
+
+**Thoughts:** I completed a few more examples on the w3schools PHP 5 tutorial today. Most of it was just basic review of syntax, and because of the language being server side, it took a little longer to set it up to be able to follow along. Thankfully, I am using MAMP, rather than a hosting service with PHP support. It's always good for some review every now and then.
+
+**Link(s) to work:** [developmentNotes wiki - PHP 5 Tutorial (w3schools)](https://github.com/SamLegros/developmentNotes/wiki/%5Bw3schools%5D-PHP-5-Tutorial)
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
