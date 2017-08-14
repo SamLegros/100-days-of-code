@@ -808,11 +808,23 @@
 
 **Link(s) to work:** [developmentNotes wiki - PHP 5 Tutorial (w3schools)](https://github.com/SamLegros/developmentNotes/wiki/%5Bw3schools%5D-PHP-5-Tutorial)
 
+***
+
 ### Day 79: August 12, 2017, Saturday
 
 **Today's Progress**: Continued the w3schools PHP 5 Tutorial, and updated my developmentNotes wiki.
 
 **Thoughts:** I completed a few more examples on the w3schools PHP 5 tutorial today. Most of it was just basic review of syntax, and because of the language being server side, it took a little longer to set it up to be able to follow along. Thankfully, I am using MAMP, rather than a hosting service with PHP support. It's always good for some review every now and then.
+
+**Link(s) to work:** [developmentNotes wiki - PHP 5 Tutorial (w3schools)](https://github.com/SamLegros/developmentNotes/wiki/%5Bw3schools%5D-PHP-5-Tutorial)
+
+***
+
+### Day 80: August 13, 2017, Sunday
+
+**Today's Progress**: Continued the w3schools PHP 5 Tutorial, and updated my developmentNotes wiki.
+
+**Thoughts:** Today was more review on PHP syntax and features. Although these exercises are review of things I should already know, because I am using a different (and perhaps more thorough) source, I am learning many new things about PHP that I hadn't before, such as the static or global variable keywords, or even you can echo a variable inside string quotations!
 
 **Link(s) to work:** [developmentNotes wiki - PHP 5 Tutorial (w3schools)](https://github.com/SamLegros/developmentNotes/wiki/%5Bw3schools%5D-PHP-5-Tutorial)
 
