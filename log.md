@@ -828,4 +828,14 @@
 
 **Link(s) to work:** [developmentNotes wiki - PHP 5 Tutorial (w3schools)](https://github.com/SamLegros/developmentNotes/wiki/%5Bw3schools%5D-PHP-5-Tutorial)
 
+***
+
+### Day 81: August 14, 2017, Monday
+
+**Today's Progress**: Completed the w3schools PHP 5 Tutorial, and updated my developmentNotes wiki.
+
+**Thoughts:** I finally completed the w3schools PHP 5 tutorial! It was a great resource to go through for sure! Most of it was basic review of syntax for coding that overlaps with over languages, such as functions and operators between PHP and JavaScript. Although the end of the tutorial detailed the superglobals that I am sure to need for some projects I would like to complete sooner than later. I will start the PHP 5 Forms tutorial from w3schools tomorrow, it seems to cover a more advanced topic, the previous tutorial was a great setup for contuining my path to learn PHP.
+
+**Link(s) to work:** [developmentNotes wiki - PHP 5 Tutorial (w3schools)](https://github.com/SamLegros/developmentNotes/wiki/%5Bw3schools%5D-PHP-5-Tutorial)
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
