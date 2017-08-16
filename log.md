@@ -838,4 +838,14 @@
 
 **Link(s) to work:** [developmentNotes wiki - PHP 5 Tutorial (w3schools)](https://github.com/SamLegros/developmentNotes/wiki/%5Bw3schools%5D-PHP-5-Tutorial)
 
+***
+
+### Day 82: August 15, 2017, Tuesday
+
+**Today's Progress**: Completed the w3schools PHP 5 Forms, and updated my developmentNotes wiki.
+
+**Thoughts:** This tutorial module was rather short, but extremely important for PHP in terms of things I should know; form handling. I honestly expected a simple breakdown of how to setup the form with PHP, then how to use the data elsewhere. However, this tutorial went into proper security measurements to take when handling forms that may have sensitive information. It was very interesting to learn about how to avoid certain vulnerabilities in forms with simple scripts or other built-in functions. Now I have a basic understanding of gathering information from a form, and using it elsewhere on a webpage.
+
+**Link(s) to work:** [developmentNotes wiki - PHP 5 Forms (w3schools)](https://github.com/SamLegros/developmentNotes/wiki/%5Bw3schools%5D-PHP-5-Forms)
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
