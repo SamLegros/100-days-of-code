@@ -848,4 +848,14 @@
 
 **Link(s) to work:** [developmentNotes wiki - PHP 5 Forms (w3schools)](https://github.com/SamLegros/developmentNotes/wiki/%5Bw3schools%5D-PHP-5-Forms)
 
+***
+
+### Day 83: August 16, 2017, Wednesday
+
+**Today's Progress**: Started the w3schools PHP 5 Advanced, and updated my developmentNotes wiki.
+
+**Thoughts:** I began the advanced tutorial for PHP today. Ultimately, I am aiming to work on the MSQL PHP tutorial, however the linearaity of the w3schools PHP tutorial shows this advanced module before the MySQL. Since I'm all about learning as much as I can, I will go through this module in its entirety. So far I have learned some essential things such as include files, and multidimensional arrays.
+
+**Link(s) to work:** [developmentNotes wiki - PHP 5 Advanced (w3schools)](https://github.com/SamLegros/developmentNotes/wiki/%5Bw3schools%5D-PHP-5-Advanced)
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
