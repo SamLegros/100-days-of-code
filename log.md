@@ -2,6 +2,10 @@
 
 ***
 
+### [Most recent log](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#day-84-august-17-2017-thursday)
+
+***
+
 ### Day 1: May 22, 2017, Monday
 
 **Today's Progress**: Completed 3 exercises on FreeCodeCamp.
