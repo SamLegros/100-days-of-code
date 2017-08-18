@@ -858,4 +858,14 @@
 
 **Link(s) to work:** [developmentNotes wiki - PHP 5 Advanced (w3schools)](https://github.com/SamLegros/developmentNotes/wiki/%5Bw3schools%5D-PHP-5-Advanced)
 
+***
+
+### Day 84: August 17, 2017, Thursday
+
+**Today's Progress**: Continued the w3schools PHP 5 Advanced, and updated my developmentNotes wiki.
+
+**Thoughts:** This tutorial module is really shaping into some neat ways you can leverage the PHP language. I went over how to read and write files on the server, upload files, and generate cookies. I'm taking diligent notes and constantly thinking about how I can use each of these tools effectively come time to try it out on my own. I was a little confused about the cookies section. It detailed how to make one and load it, but not how to use it later for its features. I can just do some further research on that, but only once I am more comfortable with the basics.
+
+**Link(s) to work:** [developmentNotes wiki - PHP 5 Advanced (w3schools)](https://github.com/SamLegros/developmentNotes/wiki/%5Bw3schools%5D-PHP-5-Advanced)
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
