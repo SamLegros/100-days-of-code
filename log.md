@@ -846,7 +846,7 @@
 
 ### Day 82: August 15, 2017, Tuesday
 
-**Today's Progress**: Completed the w3schools PHP 5 Forms, and updated my developmentNotes wiki.
+**Today's Progress**: Completed the w3schools PHP 5 Forms Tutorial, and updated my developmentNotes wiki.
 
 **Thoughts:** This tutorial module was rather short, but extremely important for PHP in terms of things I should know; form handling. I honestly expected a simple breakdown of how to setup the form with PHP, then how to use the data elsewhere. However, this tutorial went into proper security measurements to take when handling forms that may have sensitive information. It was very interesting to learn about how to avoid certain vulnerabilities in forms with simple scripts or other built-in functions. Now I have a basic understanding of gathering information from a form, and using it elsewhere on a webpage.
 
@@ -856,7 +856,7 @@
 
 ### Day 83: August 16, 2017, Wednesday
 
-**Today's Progress**: Started the w3schools PHP 5 Advanced, and updated my developmentNotes wiki.
+**Today's Progress**: Started the w3schools PHP 5 Advanced Tutorial, and updated my developmentNotes wiki.
 
 **Thoughts:** I began the advanced tutorial for PHP today. Ultimately, I am aiming to work on the MSQL PHP tutorial, however the linearaity of the w3schools PHP tutorial shows this advanced module before the MySQL. Since I'm all about learning as much as I can, I will go through this module in its entirety. So far I have learned some essential things such as include files, and multidimensional arrays.
 
@@ -866,10 +866,22 @@
 
 ### Day 84: August 17, 2017, Thursday
 
-**Today's Progress**: Continued the w3schools PHP 5 Advanced, and updated my developmentNotes wiki.
+**Today's Progress**: Continued the w3schools PHP 5 Advanced Tutorial, and updated my developmentNotes wiki.
 
 **Thoughts:** This tutorial module is really shaping into some neat ways you can leverage the PHP language. I went over how to read and write files on the server, upload files, and generate cookies. I'm taking diligent notes and constantly thinking about how I can use each of these tools effectively come time to try it out on my own. I was a little confused about the cookies section. It detailed how to make one and load it, but not how to use it later for its features. I can just do some further research on that, but only once I am more comfortable with the basics.
 
 **Link(s) to work:** [developmentNotes wiki - PHP 5 Advanced (w3schools)](https://github.com/SamLegros/developmentNotes/wiki/%5Bw3schools%5D-PHP-5-Advanced)
+
+***
+
+### Day 85: August 18, 2017, Friday
+
+**Today's Progress**: Completed the w3schools PHP 5 Advanced Tutorial, completed the w3schools PHP MySQL Database Tutorial, and updated my developmentNotes wiki.
+
+**Thoughts:** Completing the rest of the advanced examples of PHP was very helpful, they went over filters and error handling, something I expect to need when beginning with this language. I also started and completed the entire PHP MySQL Database Tutorial on w3schools. This section was an important section to go over since I will be needing to use MySQL for Curated Canvas some day. This chapter didn't have too much context or other information, it was purely examples of how to do certain functionalities. Nonetheless, I took diligent notes and look forward to start testing my new PHP skills.
+
+**Link(s) to work:**
+- [developmentNotes wiki - PHP 5 Advanced (w3schools)](https://github.com/SamLegros/developmentNotes/wiki/%5Bw3schools%5D-PHP-5-Advanced)
+- [developmentNotes wiki - PHP MySQL Database (w3schools)](https://github.com/SamLegros/developmentNotes/wiki/%5Bw3schools%5D-PHP-MySQL-Database)
 
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
