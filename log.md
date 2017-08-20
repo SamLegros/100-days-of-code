@@ -884,4 +884,14 @@
 - [developmentNotes wiki - PHP 5 Advanced (w3schools)](https://github.com/SamLegros/developmentNotes/wiki/%5Bw3schools%5D-PHP-5-Advanced)
 - [developmentNotes wiki - PHP MySQL Database (w3schools)](https://github.com/SamLegros/developmentNotes/wiki/%5Bw3schools%5D-PHP-MySQL-Database)
 
+***
+
+### Day 86: August 19, 2017, Saturday
+
+**Today's Progress**: Worked on adding PHP functionality to Curated Canvas beta, and updated my developmentNotes wiki.
+
+**Thoughts:** Seeing that I've recently completed several thorough tutorials on PHP and MySQL database, I decided to try and implement some PHP functionality into my localhost version of Curated Canvas beta (hosted through MAMP). Adding the PHP was pretty straight forward, but I am slowly adding each feature one at a time. I don't want to go too fast and lose my place or break my code beyond my skillset to repair. Plus, when I add something, such as connecting my page to the MySQL database, I make sure to understand every line of code I add. There were times in some tutorials where I was lost but kept going, and eventually caught up to what the module was explaining. I am being very diligent to understand all the code inside Curated Canvas. I even made a new branch on my git repo for this project (first time outside of a tutorial!), so I'm also learning new this for git as well.
+
+**Link(s) to work:** Null
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
