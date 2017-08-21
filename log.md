@@ -888,9 +888,19 @@
 
 ### Day 86: August 19, 2017, Saturday
 
-**Today's Progress**: Worked on adding PHP functionality to Curated Canvas beta, and updated my developmentNotes wiki.
+**Today's Progress**: Worked on adding PHP functionality to Curated Canvas beta.
 
 **Thoughts:** Seeing that I've recently completed several thorough tutorials on PHP and MySQL database, I decided to try and implement some PHP functionality into my localhost version of Curated Canvas beta (hosted through MAMP). Adding the PHP was pretty straight forward, but I am slowly adding each feature one at a time. I don't want to go too fast and lose my place or break my code beyond my skillset to repair. Plus, when I add something, such as connecting my page to the MySQL database, I make sure to understand every line of code I add. There were times in some tutorials where I was lost but kept going, and eventually caught up to what the module was explaining. I am being very diligent to understand all the code inside Curated Canvas. I even made a new branch on my git repo for this project (first time outside of a tutorial!), so I'm also learning new this for git as well.
+
+**Link(s) to work:** Null
+
+***
+
+### Day 87: August 20, 2017, Sunday
+
+**Today's Progress**: Worked on adding PHP functionality to Curated Canvas beta.
+
+**Thoughts:** Today was a bit discouraging in terms of coding PHP into my already existing HTML pages. I went over the form tutorial and MySQL many times, trying to add in the functionality of inserting form data into MySQL. I was also having difficulty managing my CSS stylesheet with my code. It just wouldn't update for some reason! I suspected that I was editing the file from the master branch (which is no longer the most current version of my code), but it turns out it was simple the cache needed clearing. I will try again tomorrow, and am hoping to get better results. I knew this part would be difficult, I just need to keep trying and stay positive.
 
 **Link(s) to work:** Null
 
