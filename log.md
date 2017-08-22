@@ -904,4 +904,14 @@
 
 **Link(s) to work:** Null
 
+***
+
+### Day 88: August 21, 2017, Monday
+
+**Today's Progress**: Worked on adding PHP functionality to Curated Canvas beta.
+
+**Thoughts:** Today was a much better day than yesterday in terms of implementing code that actually works! I actually revisited an old YouTube tutorial I completed and used that code as inspiration. I was able to figure out user sign ups quite fast to my surprise. The next hurdle was getting them to sign in with that information. For some reason, it took a while to get this to work (you would think that sign ups are more advanced than log ins). I realized it was just some syntax errors here and there. What is making this more difficult (than it should be, I believe) is my lack of knowledge to print out the error logs to pin point the problems. I should figure that portion out next if I am to add more advanced functionality to Curated Canvas.
+
+**Link(s) to work:** Null
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
