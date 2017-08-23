@@ -2,7 +2,7 @@
 
 ***
 
-### [Most recent log](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#day-87-august-20-2017-sunday)
+### [Most recent log](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#day-89-august-22-2017-tuesday)
 
 ***
 
@@ -911,6 +911,16 @@
 **Today's Progress**: Worked on adding PHP functionality to Curated Canvas beta.
 
 **Thoughts:** Today was a much better day than yesterday in terms of implementing code that actually works! I actually revisited an old YouTube tutorial I completed and used that code as inspiration. I was able to figure out user sign ups quite fast to my surprise. The next hurdle was getting them to sign in with that information. For some reason, it took a while to get this to work (you would think that sign ups are more advanced than log ins). I realized it was just some syntax errors here and there. What is making this more difficult (than it should be, I believe) is my lack of knowledge to print out the error logs to pin point the problems. I should figure that portion out next if I am to add more advanced functionality to Curated Canvas.
+
+**Link(s) to work:** Null
+
+***
+
+### Day 89: August 22, 2017, Tuesday
+
+**Today's Progress**: Worked on adding PHP functionality to Curated Canvas beta.
+
+**Thoughts:** Another great day for coding! I was able to accomplish a good deal of what I wanted to. I added many more form validation requirements for the user sign up and log in features. I was worried that changing it from the YouTube tutorial code would be out of my skillset, but I broke it down and was able to do it! The important step was ensuring that I fully understood the code before taking it apart and re-assembling it. Although some of the functions used, I've never heard of them before, I now understand what they do. That's the tricky part of beginning to code, to figure out if there is an already existing built-in function that can perform the task you're looking for, or do you have to code it from scratch? Luckily, online resources are simple to navigate and are always very helpful. I'm also enjoying pushing the new code to my GitHub repo, feels to professional when I do that.
 
 **Link(s) to work:** Null
 
