@@ -924,4 +924,14 @@
 
 **Link(s) to work:** Null
 
+***
+
+### Day 90: August 23, 2017, Wednesday
+
+**Today's Progress**: Worked on adding PHP functionality to Curated Canvas beta.
+
+**Thoughts:** Today I felt like learning something new with PHP, but still work on Curated Canvas. That being said, I decided to learn how to sent emails using PHP. Something pretty standard when signing up for an online site is a welcome email is sent to you (or a confirmation email, perhaps I'll learn that next). I was having some difficulties getting the built-in php mail() function to work. Turns out there are issues when using localhost and MAMP. I then found a plugin called PHPMailer which worked perfectly! It uses gmail to send out emails (which is our email service for Curated Canvas, so that works!). This then lead to my researching how to properly secure hard coded passwords in source code. I need to input my gmail password for the PHPMailer authentication, so learning how the pros properly secure passwords in source code is something I need to learn (especially for when I use a real MySQL database).
+
+**Link(s) to work:** Null
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
