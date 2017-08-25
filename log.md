@@ -2,7 +2,7 @@
 
 ***
 
-### [Most recent log](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#day-89-august-22-2017-tuesday)
+### [Most recent log](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#day-91-august-24-2017-thursday)
 
 ***
 
@@ -931,6 +931,16 @@
 **Today's Progress**: Worked on adding PHP functionality to Curated Canvas beta.
 
 **Thoughts:** Today I felt like learning something new with PHP, but still work on Curated Canvas. That being said, I decided to learn how to sent emails using PHP. Something pretty standard when signing up for an online site is a welcome email is sent to you (or a confirmation email, perhaps I'll learn that next). I was having some difficulties getting the built-in php mail() function to work. Turns out there are issues when using localhost and MAMP. I then found a plugin called PHPMailer which worked perfectly! It uses gmail to send out emails (which is our email service for Curated Canvas, so that works!). This then lead to my researching how to properly secure hard coded passwords in source code. I need to input my gmail password for the PHPMailer authentication, so learning how the pros properly secure passwords in source code is something I need to learn (especially for when I use a real MySQL database).
+
+**Link(s) to work:** Null
+
+***
+
+### Day 91: August 24, 2017, Thursday
+
+**Today's Progress**: Worked on adding PHP functionality to Curated Canvas beta.
+
+**Thoughts:** I mostly cleaned up my code today, a much needed exercise. There were many redundant classes/id's the works. I also wanted to start connecting my code to the Artsy API. I knew that I needed some JavaScript/jQuery to manipulate the page and get the API information, however I was having difficulty loading the JavaScript. I suspected that it was because I split my header and footer from my body page using PHP. I had to turn to stackoverflow to ask why it wasn't working, and it the reason was the script.js file was being loaded before the page. I just needed to load the file in my footer, rather than my header. Glad it was a simple fix. Tomorrow I will try to connect to the API myself!
 
 **Link(s) to work:** Null
 
