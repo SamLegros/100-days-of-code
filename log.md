@@ -944,4 +944,12 @@
 
 **Link(s) to work:** Null
 
+### Day 92: August 25, 2017, Friday
+
+**Today's Progress**: Worked on adding PHP functionality to Curated Canvas beta, and connected to the Artsy API.
+
+**Thoughts:** Today was quite the struggle, I must say. Connecting to the API was way more complex than I had anticipated. I was going off of my experience connecting to the Wikipedia or Twitch API (where you weren't required a token or other form of authentication). The Artsy API was turning out to be more difficult since I needed to use cURL on the PHP side of things, where I thought I could use JavaScript. Anyway, after much research online, and having to ask several questions on Stack Overflow, I finally got it to work and connect to the API and make a simple request! I basically took all day, but I am proud to have figured it out with the help of the online community. Now my next struggle would be to determine how to save the data for each user to the database. Does each user get their own table? Or just a row? Just some things I need to figure out before jumping in.
+
+**Link(s) to work:** Null
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
