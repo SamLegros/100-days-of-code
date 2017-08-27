@@ -944,11 +944,23 @@
 
 **Link(s) to work:** Null
 
+***
+
 ### Day 92: August 25, 2017, Friday
 
 **Today's Progress**: Worked on adding PHP functionality to Curated Canvas beta, and connected to the Artsy API.
 
 **Thoughts:** Today was quite the struggle, I must say. Connecting to the API was way more complex than I had anticipated. I was going off of my experience connecting to the Wikipedia or Twitch API (where you weren't required a token or other form of authentication). The Artsy API was turning out to be more difficult since I needed to use cURL on the PHP side of things, where I thought I could use JavaScript. Anyway, after much research online, and having to ask several questions on Stack Overflow, I finally got it to work and connect to the API and make a simple request! I basically took all day, but I am proud to have figured it out with the help of the online community. Now my next struggle would be to determine how to save the data for each user to the database. Does each user get their own table? Or just a row? Just some things I need to figure out before jumping in.
+
+**Link(s) to work:** Null
+
+***
+
+### Day 93: August 26, 2017, Saturday
+
+**Today's Progress**: Worked on adding PHP functionality to Curated Canvas beta, and connected to the Artsy API.
+
+**Thoughts:** Although I may not have coded too much today, it was mostly figuring out how to manipulating my API requests to get the speicific data that I need, such as artist, artwork, year, medium, and of course, the image of piece. I was very proud to have figured out how to parse through the array of artworks that is generated through the API request. My mind is now thinking of how to organize the data so that it is randomly generated for the users. I'm not sure of a way to generate a random key that would match the API, so I was thinking of perhaps data-dumping the API info into a database of my own, that way I can control which artwork is displayed for each user. There are other bonuses that come with this, such as not relying on the slowness of the API requests, where a request to an internal database should be instant! Easier said than done, of course.
 
 **Link(s) to work:** Null
 
