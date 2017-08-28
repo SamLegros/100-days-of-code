@@ -964,4 +964,14 @@
 
 **Link(s) to work:** Null
 
+***
+
+### Day 94: August 27, 2017, Sunday
+
+**Today's Progress**: Worked on adding PHP functionality to Curated Canvas beta, and connected to the Artsy API.
+
+**Thoughts:** I was on a roll today! Despite being nervous to even begin coding today. I usually code in the morning, when I am most productive, however I was nervous because I had to start performing some complicated tasks in relation to the Artsy API. Yesterday I had decided to try to data-dump all the artworks from API, and since the artworks are only show on pages of 5, I would need to iterate through many pages. Fortunately, I took it one step at a time, and was eventually able to get the API request to iterate over the many pages of artworks (I decided to limit the tests to from 5-10 pages, I didn't want to request all 26,000 artworks at such an early stage!). I did notice that I was getting some errors for when there was no artist appointed to the artwork (such as a statue from 500 B.C.), I therefore created a catch where it will just replace the error with "Anonymous", this cleared up all the errors I was receiving. It was a very positive day for code, and I am proud to have accomplished my goal for the day.
+
+**Link(s) to work:** Null
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
