@@ -2,7 +2,7 @@
 
 ***
 
-### [Most recent log](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#day-94-august-27-2017-sunday)
+### [Most recent log](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#day-95-august-28-2017-monday)
 
 ***
 
@@ -971,6 +971,16 @@
 **Today's Progress**: Worked on adding PHP functionality to Curated Canvas beta, and connected to the Artsy API.
 
 **Thoughts:** I was on a roll today! Despite being nervous to even begin coding today. I usually code in the morning, when I am most productive, however I was nervous because I had to start performing some complicated tasks in relation to the Artsy API. Yesterday I had decided to try to data-dump all the artworks from API, and since the artworks are only show on pages of 5, I would need to iterate through many pages. Fortunately, I took it one step at a time, and was eventually able to get the API request to iterate over the many pages of artworks (I decided to limit the tests to from 5-10 pages, I didn't want to request all 26,000 artworks at such an early stage!). I did notice that I was getting some errors for when there was no artist appointed to the artwork (such as a statue from 500 B.C.), I therefore created a catch where it will just replace the error with "Anonymous", this cleared up all the errors I was receiving. It was a very positive day for code, and I am proud to have accomplished my goal for the day.
+
+**Link(s) to work:** Null
+
+***
+
+### Day 95: August 28, 2017, Monday
+
+**Today's Progress**: Worked on adding PHP functionality to Curated Canvas beta, and connected to the Artsy API.
+
+**Thoughts:** I guess some days you are just with it, and some days you aren't. Today was the latter for me. I didn't have too much time to code as per usual, but I did set a minor goal to request the genres relating to one given artwork. From our previous prototype, I remembered only seeing 5 genres per artwork, all of them at the top end of the alphabet (19th Century Art, or Austrian Art). This seemed odd where genre names never made it to those that start with later letters. I then realized that the Artsy API structures the genres the same way as the artworks, in groups of 5. I then wrote some code that iterated through all the genres associated with one painting, and there are many of them! Not the end of the world, I remember seeing about 20-30 of them, that's better than 100! I am getting closer to isolating all the information I need, to then be able to data-dump it into my own database table for easy referencing (I hope).
 
 **Link(s) to work:** Null
 
