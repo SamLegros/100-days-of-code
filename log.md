@@ -984,4 +984,14 @@
 
 **Link(s) to work:** Null
 
+***
+
+### Day 96: August 29, 2017, Tuesday
+
+**Today's Progress**: Worked on adding PHP functionality to Curated Canvas beta, and connected to the Artsy API.
+
+**Thoughts:** Today I was able to successfully write the code that iterates through all the associated genres pertaining to a single artwork. I'm proud that yesterday's estimate was correct, there were 28 associated genres relating to the first artwork in the array! It took me a while to get the code to work and properly handle any errors, it was my first time using a while loop plus using the isset() function on my own. Usually, if you saw my code, the only instance of isset() were from tutorials. So it's nice to learn on my own then apply the function myself, rather than being told. Slowly and steadily, I'm becoming more comfortable with PHP, very happy I can reflect on that.
+
+**Link(s) to work:** Null
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
