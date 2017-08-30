@@ -2,7 +2,7 @@
 
 ***
 
-### [Most recent log](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#day-95-august-28-2017-monday)
+### [Most recent log](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#day-96-august-29-2017-tuesday)
 
 ***
 
