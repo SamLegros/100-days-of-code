@@ -994,4 +994,14 @@
 
 **Link(s) to work:** Null
 
+***
+
+### Day 97: August 30, 2017, Wednesday
+
+**Today's Progress**: Worked on adding PHP functionality to Curated Canvas beta, and connected to the Artsy API.
+
+**Thoughts:** This was a tough one, but I may have been able to solve it. On one script, I can iterate through as many pages of artworks and get their title, artist, year, and genre. On another script, I can iterate through all of the genes associated with a single artwork. It was time to combine this, something easier said than done that's for sure! I had to basically write an entirely new script and (delicately) insert each API request one at a time (I did try a quick copy-paste from one to the other, big mistake). After carefully parsing through all of the errors, I think I may have figured it out. It took me a while, so I wanted to put it down for the night and come back with fresh eyes. Once this is done, I should just be ready enough to save the data to a database, rather than echoing it to the page.
+
+**Link(s) to work:** Null
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
