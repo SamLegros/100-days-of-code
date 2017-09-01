@@ -1004,4 +1004,14 @@
 
 **Link(s) to work:** Null
 
+***
+
+### Day 98: August 31, 2017, Thursday
+
+**Today's Progress**: Worked on adding PHP functionality to Curated Canvas beta, and connected to the Artsy API.
+
+**Thoughts:** Well, I guess I didn't actually solve my issue yesterday. I am able to iterate through all of the genres for each artwork, with one small bug. Since the genres are broken down into pages of 5, if an artwork has 28 genres, it would go 5, 5, 5, 5, 5, 3 genres. With this in place, I am able to get all 28 genres, however, for the last page of only 3 genres, my code will somehow populate the remaining two slots with random genres. Now, I could leave this and have a max of 4 extra genres per artwork, not a big deal for a first-working prototype, but that just seems lazy. This is one of the first times that I am stuck on a single function for more than a day, and I can't quit now! I will continue to work on it until either I am 100% stumped, or power through it! Emphasis on the latter.
+
+**Link(s) to work:** Null
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
