@@ -1014,4 +1014,14 @@
 
 **Link(s) to work:** Null
 
+***
+
+### Day 99: September 01, 2017, Friday
+
+**Today's Progress**: Worked on adding PHP functionality to Curated Canvas beta, and connected to the Artsy API.
+
+**Thoughts:** Still on the same issue. I re-worked my code to iterate through the artworks, artists, years, and media more efficiently that's for sure. It's just that damn genres that keeps me from progressing. The tricky part is that it's impossible to know how many genres are associated with a certain artwork, meaning I must use a do... while loop. I don't have much experience with it, and troubleshooting them is quite difficult at this stage. I just have to roll up my sleeves and continue. Hoping I can complete tomorrow, that would be a great win for my 100th day of code!
+
+**Link(s) to work:** Null
+
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
