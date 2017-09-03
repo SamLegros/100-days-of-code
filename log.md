@@ -2,7 +2,7 @@
 
 ***
 
-### [Most recent log](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#day-96-august-29-2017-tuesday)
+### [Most recent log](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#day-100-september-02-2017-saturday)
 
 ***
 
@@ -1020,8 +1020,20 @@
 
 **Today's Progress**: Worked on adding PHP functionality to Curated Canvas beta, and connected to the Artsy API.
 
-**Thoughts:** Still on the same issue. I re-worked my code to iterate through the artworks, artists, years, and media more efficiently that's for sure. It's just that damn genres that keeps me from progressing. The tricky part is that it's impossible to know how many genres are associated with a certain artwork, meaning I must use a do... while loop. I don't have much experience with it, and troubleshooting them is quite difficult at this stage. I just have to roll up my sleeves and continue. Hoping I can complete tomorrow, that would be a great win for my 100th day of code!
+**Thoughts:** Still on the same issue. I re-worked my code to iterate through the artworks, artists, years, and media more efficiently that's for sure. It's just that damn genres that keeps me from progressing. The tricky part is that it's impossible to know how many genres are associated with a certain artwork, meaning I must use a do... while loop. I don't have much experience with it, and troubleshooting them is quite difficult at this stage. I just have to roll up my sleeves and continue. Hoping I can complete tomorrow, that would be a great win for my 100th day of coding!
 
 **Link(s) to work:** Null
+
+***
+
+### Day 100: September 02, 2017, Saturday
+
+**Today's Progress**: Successfully iterated through all associated artwork information from the artsy API.
+
+**Thoughts:** Today is the day! My 100th day of coding, I can't believe I actually did it! Even what I accomplished today was significant! I was finally able to figure out how to iterate through those pesky genes and save them properly! Now that I have all the information lined up, I just need to dump the data into my own database for testing. Now, for looking back on the past 100 days of code (let me just scroll to the top to see my first post...). Wow, my day 1 was completing several Free Code Camp exercises on HTML and CSS, hoping that this will translate well for JavaScript. Having coded with Processing for a few years (JavaScript-based program), I knew I had some experience with JavaScript, but not much. I'm glad that I can see a clear upward trend of learning that took place over the past 100 days. From learning the basics of HTML and CSS, to JavaScript, then PHP and MySQL! Along with completing some great projects along the way. Although today is 100/100 for this challenge, I will certainly not stop coding at every chance I can get! This was the perfect time to complete my challenge, since I am beginning my Master's of Digital Media program in a few days. I will use my newly acquired coding skills and continue to learn and grow as a developer through the program. I would like to see Curated Canvas come to fruition someday, I just need to keep at it. If anyone is reading this, I highly recommend this challenge to anyone who wants to learn code, or even some other skill they like. Try the 100 days of reading, 100 days of exercise. This challenge is a great opportunity to exercise daily discipline doing what you love. Here's to the next 100 days!
+
+**Link(s) to work:**
+- [My CodePen profile](https://codepen.io/SamLegros/)
+- [My developmentNotes wiki](https://github.com/SamLegros/developmentNotes/wiki)
 
 ### [Back to top](https://github.com/SamLegros/100-days-of-code/blob/master/log.md#100-days-of-code---log)
